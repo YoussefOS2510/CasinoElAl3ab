@@ -1,0 +1,1405 @@
+{
+    "category": "إيفيه من فيلم إيه؟",
+    "items": [
+        {
+            "id": 1,
+            "difficulty": "easy",
+            "question": "أطاطا.. بقولك إيه يا أطاطا",
+            "answer": "عوكل",
+            "character_and_actor": "عوكل - محمد سعد"
+        },
+        {
+            "id": 2,
+            "difficulty": "easy",
+            "question": "يا عيني عليك يا لمبي يا ابن أختي",
+            "answer": "اللمبي",
+            "character_and_actor": "فرنسا - عبلة كامل"
+        },
+        {
+            "id": 3,
+            "difficulty": "easy",
+            "question": "كل واحد يخلي باله من لغاليغه",
+            "answer": "الناظر",
+            "character_and_actor": "عاشور - علاء ولي الدين"
+        },
+        {
+            "id": 4,
+            "difficulty": "easy",
+            "question": "إنت بتعمل إيه يا عم إنت؟ إحنا جايين نهزر؟",
+            "answer": "فول الصين العظيم",
+            "character_and_actor": "محيي الشرقاوي - محمد هنيدي"
+        },
+        {
+            "id": 5,
+            "difficulty": "easy",
+            "question": "بعد 14 سنة خدمة في ثانوي بتسألني يعني إيه ملوخية؟",
+            "answer": "مدرسة المشاغبين",
+            "character_and_actor": "بهجت الأباصيري - عادل إمام"
+        },
+        {
+            "id": 6,
+            "difficulty": "easy",
+            "question": "أهلاً بيك في دنيا المفاجآت",
+            "answer": "الناظر",
+            "character_and_actor": "صلاح ابن الناظر - علاء ولي الدين"
+        },
+        {
+            "id": 7,
+            "difficulty": "easy",
+            "question": "أنا مش قصير أوزعة.. أنا طويل وأهبل",
+            "answer": "يا أنا يا خالتي",
+            "character_and_actor": "تيمور - محمد هنيدي"
+        },
+        {
+            "id": 8,
+            "difficulty": "easy",
+            "question": "أقسم بالله ما أنا.. ده أنا غلبان",
+            "answer": "اللمبي",
+            "character_and_actor": "اللمبي - محمد سعد"
+        },
+        {
+            "id": 9,
+            "difficulty": "easy",
+            "question": "متعودة.. دايماً",
+            "answer": "شاهد ماشفش حاجة",
+            "character_and_actor": "سرحان عبد البصير - عادل إمام"
+        },
+        {
+            "id": 10,
+            "difficulty": "easy",
+            "question": "أنا بكره إسرائيل",
+            "answer": "صعيدي في الجامعة الأمريكية",
+            "character_and_actor": "خلف الدهشوري - محمد هنيدي"
+        },
+        {
+            "id": 11,
+            "difficulty": "easy",
+            "question": "اللي فات حمادة واللي جاي حمادة تاني خالص",
+            "answer": "الباشا تلميذ",
+            "character_and_actor": "بسيوني - حسن حسني"
+        },
+        {
+            "id": 12,
+            "difficulty": "easy",
+            "question": "يا عم بخ.. إنت جاي تشتغلنا؟",
+            "answer": "بوحة",
+            "character_and_actor": "بوحة الصباح - محمد سعد"
+        },
+        {
+            "id": 13,
+            "difficulty": "easy",
+            "question": "لو كل واحد فينا طلع اللي جواه هنبقى كلنا بره",
+            "answer": "الناظر",
+            "character_and_actor": "عاطف - أحمد حلمي"
+        },
+        {
+            "id": 14,
+            "difficulty": "easy",
+            "question": "ده أنا هقطعك وهحطك في أكياس",
+            "answer": "إكس لارج",
+            "character_and_actor": "مجدي - أحمد حلمي"
+        },
+        {
+            "id": 15,
+            "difficulty": "easy",
+            "question": "إحنا في زمن المسخ",
+            "answer": "العيال كبرت",
+            "character_and_actor": "رمضان السكري - حسن مصطفى"
+        },
+        {
+            "id": 16,
+            "difficulty": "easy",
+            "question": "إديها مية تديك طراوة",
+            "answer": "كده رضا",
+            "character_and_actor": "البرنس - محمد سعد"
+        },
+        {
+            "id": 17,
+            "difficulty": "easy",
+            "question": "الواد ده بيقول كلام زي الفل",
+            "answer": "مدرسة المشاغبين",
+            "character_and_actor": "مرسي الزناتي - سعيد صالح"
+        },
+        {
+            "id": 18,
+            "difficulty": "easy",
+            "question": "إنت جاي تشتغل إيه؟ جاي أشتغل رقاصة",
+            "answer": "عبود على الحدود",
+            "character_and_actor": "عبود - علاء ولي الدين"
+        },
+        {
+            "id": 19,
+            "difficulty": "easy",
+            "question": "صباح الخير يا أمي.. صباح النور يا روح أمك",
+            "answer": "اللمبي 8 جيجا",
+            "character_and_actor": "اللمبي - محمد سعد"
+        },
+        {
+            "id": 20,
+            "difficulty": "easy",
+            "question": "طب والله العظيم ما أنا لاعب",
+            "answer": "همام في أمستردام",
+            "character_and_actor": "همام - محمد هنيدي"
+        },
+        {
+            "id": 21,
+            "difficulty": "easy",
+            "question": "يا حلاوة.. يا ولاد",
+            "answer": "الواد سيد الشغال",
+            "character_and_actor": "سيد - عادل إمام"
+        },
+        {
+            "id": 22,
+            "difficulty": "easy",
+            "question": "إنت فاكر نفسك في سويسرا؟ إحنا في بولاق يا روح أمك",
+            "answer": "طير إنت",
+            "character_and_actor": "بهيج - أحمد مكي"
+        },
+        {
+            "id": 23,
+            "difficulty": "easy",
+            "question": "كلب البحر",
+            "answer": "إسماعيل ياسين في الأسطول",
+            "character_and_actor": "الشويش عطية - رياض القصبجي"
+        },
+        {
+            "id": 24,
+            "difficulty": "easy",
+            "question": "إحنا اتبهدلنا أوي يا عاطف",
+            "answer": "جعلتني مجرماً",
+            "character_and_actor": "رشدي أباظة - أحمد حلمي"
+        },
+        {
+            "id": 25,
+            "difficulty": "easy",
+            "question": "أوعى وشك",
+            "answer": "أوعى وشك",
+            "character_and_actor": "جعفر - أحمد رزق"
+        },
+        {
+            "id": 26,
+            "difficulty": "easy",
+            "question": "أنا لا أكذب ولكني أتجمل",
+            "answer": "أنا لا أكذب ولكني أتجمل",
+            "character_and_actor": "إبراهيم - أحمد زكي"
+        },
+        {
+            "id": 27,
+            "difficulty": "easy",
+            "question": "يا نهار أبيض.. ده إحنا هنروح في داهية",
+            "answer": "حرامية في كي جي تو",
+            "character_and_actor": "حسن - كريم عبد العزيز"
+        },
+        {
+            "id": 28,
+            "difficulty": "easy",
+            "question": "مين اللي أكل الجبنة؟",
+            "answer": "عسل أسود",
+            "character_and_actor": "مصري سيد العربي - أحمد حلمي"
+        },
+        {
+            "id": 29,
+            "difficulty": "easy",
+            "question": "إنت بتكلمني أنا؟",
+            "answer": "الكيف",
+            "character_and_actor": "جمال مزاجنجي - محمود عبد العزيز"
+        },
+        {
+            "id": 30,
+            "difficulty": "easy",
+            "question": "بحبك يا سعاد",
+            "answer": "المتزوجون",
+            "character_and_actor": "مسعود - سمير غانم"
+        },
+        {
+            "id": 31,
+            "difficulty": "easy",
+            "question": "اللي يجي على سكتي أفرمه",
+            "answer": "إبراهيم الأبيض",
+            "character_and_actor": "عبد الملك زرزور - محمود عبد العزيز"
+        },
+        {
+            "id": 32,
+            "difficulty": "easy",
+            "question": "هو ده الكلام اللي يودي في داهية",
+            "answer": "مرجان أحمد مرجان",
+            "character_and_actor": "مرجان - عادل إمام"
+        },
+        {
+            "id": 33,
+            "difficulty": "easy",
+            "question": "أنا مش بتاع الكلام ده.. أنا راجل دغري",
+            "answer": "كتكوت",
+            "character_and_actor": "كتكوت أبو الليل - محمد سعد"
+        },
+        {
+            "id": 34,
+            "difficulty": "easy",
+            "question": "يا بيه إحنا غلابة",
+            "answer": "طيور الظلام",
+            "character_and_actor": "فتحي نوفل - عادل إمام"
+        },
+        {
+            "id": 35,
+            "difficulty": "easy",
+            "question": "البلد دي مفيهاش راجل",
+            "answer": "الزوجة الثانية",
+            "character_and_actor": "العتمان - صلاح منصور"
+        },
+        {
+            "id": 36,
+            "difficulty": "easy",
+            "question": "شطبنا يا فندم",
+            "answer": "اللي بالي بالك",
+            "character_and_actor": "رياض المنفلوطي - محمد سعد"
+        },
+        {
+            "id": 37,
+            "difficulty": "easy",
+            "question": "إيه الحلاوة دي.. إيه الطعامة دي",
+            "answer": "صعيدي في الجامعة الأمريكية",
+            "character_and_actor": "علي - طارق لطفي"
+        },
+        {
+            "id": 38,
+            "difficulty": "easy",
+            "question": "الدنيا ريشة في هوا",
+            "answer": "البرئ",
+            "character_and_actor": "أحمد سبع الليل - أحمد زكي"
+        },
+        {
+            "id": 39,
+            "difficulty": "easy",
+            "question": "يا دين النبي.. إيه اللي جاب القلعة جنب البحر؟",
+            "answer": "جاءنا البيان التالي",
+            "character_and_actor": "نادر سيف الدين - محمد هنيدي"
+        },
+        {
+            "id": 40,
+            "difficulty": "easy",
+            "question": "أنا بابا يالا",
+            "answer": "أبو علي",
+            "character_and_actor": "حسن أبو علي - كريم عبد العزيز"
+        },
+        {
+            "id": 41,
+            "difficulty": "easy",
+            "question": "سيب إيدي يا حشمت",
+            "answer": "إشاعة حب",
+            "character_and_actor": "سميحة - سعاد حسني"
+        },
+        {
+            "id": 42,
+            "difficulty": "easy",
+            "question": "أهلاً وسهلاً شرفتونا",
+            "answer": "العيال كبرت",
+            "character_and_actor": "سلطان السكري - سعيد صالح"
+        },
+        {
+            "id": 43,
+            "difficulty": "easy",
+            "question": "حلاوة روح",
+            "answer": "حلاوة روح",
+            "character_and_actor": "روح - هيفاء وهبي"
+        },
+        {
+            "id": 44,
+            "difficulty": "easy",
+            "question": "إنت مين؟ أنا اللي قتلت بابايا",
+            "answer": "اللمبي",
+            "character_and_actor": "اللمبي - محمد سعد"
+        },
+        {
+            "id": 45,
+            "difficulty": "easy",
+            "question": "عيب يا راجل ده إحنا صعايدة",
+            "answer": "عسل أسود",
+            "character_and_actor": "سعيد - لطفي لبيب"
+        },
+        {
+            "id": 46,
+            "difficulty": "easy",
+            "question": "اللي يبص لفوق رقبته توجعه",
+            "answer": "سلام يا صاحبي",
+            "character_and_actor": "مرزوق - عادل إمام"
+        },
+        {
+            "id": 47,
+            "difficulty": "easy",
+            "question": "يا فرحة ما تمت",
+            "answer": "غبي منه فيه",
+            "character_and_actor": "سلطان - هاني رمزي"
+        },
+        {
+            "id": 48,
+            "difficulty": "easy",
+            "question": "بص حضرتك.. أنا مش فاهم حاجة",
+            "answer": "فول الصين العظيم",
+            "character_and_actor": "محيي الشرقاوي - محمد هنيدي"
+        },
+        {
+            "id": 49,
+            "difficulty": "easy",
+            "question": "أنا عندي شعرية",
+            "answer": "زكي شان",
+            "character_and_actor": "زكي - أحمد حلمي"
+        },
+        {
+            "id": 50,
+            "difficulty": "easy",
+            "question": "إحنا بتوع الأتوبيس",
+            "answer": "إحنا بتوع الأتوبيس",
+            "character_and_actor": "جابر - عادل إمام"
+        },
+        {
+            "id": 51,
+            "difficulty": "easy",
+            "question": "مفيش فايدة",
+            "answer": "سعد زغلول (تاريخي / فيلم مصطفى كامل)",
+            "character_and_actor": "سعد زغلول - مجدي وهبة"
+        },
+        {
+            "id": 52,
+            "difficulty": "easy",
+            "question": "هو ده.. هو ده بعينه",
+            "answer": "الإرهاب والكباب",
+            "character_and_actor": "أحمد - عادل إمام"
+        },
+        {
+            "id": 53,
+            "difficulty": "easy",
+            "question": "واحد مصري.. إيه اللي هيحصله يعني؟",
+            "answer": "عسل أسود",
+            "character_and_actor": "مصري سيد العربي - أحمد حلمي"
+        },
+        {
+            "id": 54,
+            "difficulty": "easy",
+            "question": "يا خراشي.. ده طلع بجد",
+            "answer": "إسماعيلية رايح جاي",
+            "character_and_actor": "إبراهيم - محمد فؤاد"
+        },
+        {
+            "id": 55,
+            "difficulty": "easy",
+            "question": "الناس لبعضيها يا بيه",
+            "answer": "الباشا تلميذ",
+            "character_and_actor": "بسيوني - كريم عبد العزيز"
+        },
+        {
+            "id": 56,
+            "difficulty": "easy",
+            "question": "كده برضه يا سوسن؟",
+            "answer": "المتزوجون",
+            "character_and_actor": "حنفي - جورج سيدهم"
+        },
+        {
+            "id": 57,
+            "difficulty": "easy",
+            "question": "إنت جاي تهزر؟ ده شغل حكومة",
+            "answer": "الإرهاب والكباب",
+            "character_and_actor": "الموظف - كمال الشناوي"
+        },
+        {
+            "id": 58,
+            "difficulty": "easy",
+            "question": "طظ فيك وفي أمثالك",
+            "answer": "عايز حقي",
+            "character_and_actor": "صابر الطيب - هاني رمزي"
+        },
+        {
+            "id": 59,
+            "difficulty": "easy",
+            "question": "أنا راجل كبرة",
+            "answer": "الكبير أوي (الفيلم / طير إنت)",
+            "character_and_actor": "الكبير - أحمد مكي"
+        },
+        {
+            "id": 60,
+            "difficulty": "easy",
+            "question": "يا واد يا تقيل",
+            "answer": "خلي بالك من زوزو",
+            "character_and_actor": "زوزو - سعاد حسني"
+        },
+        {
+            "id": 61,
+            "difficulty": "easy",
+            "question": "إحنا صعايدة يا بوي مابنخافش",
+            "answer": "الجزيرة",
+            "character_and_actor": "منصور الحفني - أحمد السقا"
+        },
+        {
+            "id": 62,
+            "difficulty": "easy",
+            "question": "الحب ولع في الدرة",
+            "answer": "غبي منه فيه",
+            "character_and_actor": "ضبش - حسن حسني"
+        },
+        {
+            "id": 63,
+            "difficulty": "easy",
+            "question": "إنت بتبصلي كده ليه؟",
+            "answer": "بوحة",
+            "character_and_actor": "بوحة الصباح - محمد سعد"
+        },
+        {
+            "id": 64,
+            "difficulty": "easy",
+            "question": "صباح الفل يا رجالة",
+            "answer": "عبود على الحدود",
+            "character_and_actor": "عبود - علاء ولي الدين"
+        },
+        {
+            "id": 65,
+            "difficulty": "easy",
+            "question": "اللي ميعرفش يقول عدس",
+            "answer": "ابن حميدو",
+            "character_and_actor": "الباز أفندي - توفيق الدقن"
+        },
+        {
+            "id": 66,
+            "difficulty": "easy",
+            "question": "أحلى من الشرف مفيش",
+            "answer": "أحبك يا حسن",
+            "character_and_actor": "الباز أفندي - توفيق الدقن"
+        },
+        {
+            "id": 67,
+            "difficulty": "easy",
+            "question": "يا صفايح الزبدة السايحة",
+            "answer": "أبي فوق الشجرة",
+            "character_and_actor": "توفيق الدقن"
+        },
+        {
+            "id": 68,
+            "difficulty": "easy",
+            "question": "إنتوا مين وإحنا مين؟",
+            "answer": "اللي بالي بالك",
+            "character_and_actor": "اللمبي - محمد سعد"
+        },
+        {
+            "id": 69,
+            "difficulty": "easy",
+            "question": "أنا مش شايف قدامي",
+            "answer": "أمير الظلام",
+            "character_and_actor": "سعيد المصري - عادل إمام"
+        },
+        {
+            "id": 70,
+            "difficulty": "easy",
+            "question": "كله رايح",
+            "answer": "أبو علي",
+            "character_and_actor": "أمين - طلعت زكريا"
+        },
+        {
+            "id": 71,
+            "difficulty": "medium",
+            "question": "إحنا هنقضيها ولا إيه؟ فين الكباب؟",
+            "answer": "الإرهاب والكباب",
+            "character_and_actor": "أحمد - عادل إمام"
+        },
+        {
+            "id": 72,
+            "difficulty": "medium",
+            "question": "يا عيني على الحلو لما تبهدله الأيام",
+            "answer": "العيال كبرت",
+            "character_and_actor": "كمال السكري - أحمد زكي"
+        },
+        {
+            "id": 73,
+            "difficulty": "medium",
+            "question": "أنا بشتري راجل",
+            "answer": "الواد سيد الشغال",
+            "character_and_actor": "عاصم بيه - عمر الحريري"
+        },
+        {
+            "id": 74,
+            "difficulty": "medium",
+            "question": "ده أنا كنت في السجن يا بيه.. سجن إيه؟ سجن النسا",
+            "answer": "شاهد ماشفش حاجة",
+            "character_and_actor": "سرحان عبد البصير - عادل إمام"
+        },
+        {
+            "id": 75,
+            "difficulty": "medium",
+            "question": "البسكلتة ضاعت يا حنفي",
+            "answer": "المتزوجون",
+            "character_and_actor": "مسعود - سمير غانم"
+        },
+        {
+            "id": 76,
+            "difficulty": "medium",
+            "question": "إنت جاي تبيع المية في حارة السقايين؟",
+            "answer": "صعيدي في الجامعة الأمريكية",
+            "character_and_actor": "حسين - أحمد السقا"
+        },
+        {
+            "id": 77,
+            "difficulty": "medium",
+            "question": "إحنا بنعمل الصح",
+            "answer": "الكيف",
+            "character_and_actor": "ستاموني - فؤاد خليل"
+        },
+        {
+            "id": 78,
+            "difficulty": "medium",
+            "question": "يا عم إنت بتتكلم هندي؟",
+            "answer": "جاءنا البيان التالي",
+            "character_and_actor": "رياض - سليمان عيد"
+        },
+        {
+            "id": 79,
+            "difficulty": "medium",
+            "question": "اللي اختشوا ماتوا",
+            "answer": "اللي اختشوا ماتوا",
+            "character_and_actor": "ليل - غادة عبد الرازق"
+        },
+        {
+            "id": 80,
+            "difficulty": "medium",
+            "question": "أنا راجل بتاع ربنا.. بس مش أوي يعني",
+            "answer": "طير إنت",
+            "character_and_actor": "مارد - ماجد الكدواني"
+        },
+        {
+            "id": 81,
+            "difficulty": "medium",
+            "question": "إنت بتعرف تعد لحد كام؟ لحد عشرة وأتعب",
+            "answer": "غبي منه فيه",
+            "character_and_actor": "سلطان - هاني رمزي"
+        },
+        {
+            "id": 82,
+            "difficulty": "medium",
+            "question": "يا دين النبي.. ده الواد طلع بيفهم",
+            "answer": "مرجان أحمد مرجان",
+            "character_and_actor": "حسن - حسن مصطفى"
+        },
+        {
+            "id": 83,
+            "difficulty": "medium",
+            "question": "إحنا اتفقنا على كده؟ لأ بس هنمشيها كده",
+            "answer": "حرامية في تايلاند",
+            "character_and_actor": "إبراهيم - كريم عبد العزيز"
+        },
+        {
+            "id": 84,
+            "difficulty": "medium",
+            "question": "الفلوس بتغير النفوس يا صاحبي",
+            "answer": "سلام يا صاحبي",
+            "character_and_actor": "بركات - سعيد صالح"
+        },
+        {
+            "id": 85,
+            "difficulty": "medium",
+            "question": "إنت فاكرني هخاف؟ أنا مابخافش إلا من اللي خلقني ومراتي",
+            "answer": "أبو علي",
+            "character_and_actor": "أمين - طلعت زكريا"
+        },
+        {
+            "id": 86,
+            "difficulty": "medium",
+            "question": "يا بيه ده إحنا لسه بنقول يا هادي",
+            "answer": "زكي شان",
+            "character_and_actor": "خيرت - حسن حسني"
+        },
+        {
+            "id": 87,
+            "difficulty": "medium",
+            "question": "الشغل شغل يا أستاذ.. مفيش فيه بابا وماما",
+            "answer": "حاحا وتفاحة",
+            "character_and_actor": "حاحا - طلعت زكريا"
+        },
+        {
+            "id": 88,
+            "difficulty": "medium",
+            "question": "أنا مش شايف فيكم راجل",
+            "answer": "الجزيرة",
+            "character_and_actor": "علي الحفني - محمود ياسين"
+        },
+        {
+            "id": 89,
+            "difficulty": "medium",
+            "question": "بص شوف القطة بتعمل إيه",
+            "answer": "لا تراجع ولا استسلام",
+            "character_and_actor": "حزلقوم - أحمد مكي"
+        },
+        {
+            "id": 90,
+            "difficulty": "medium",
+            "question": "إنت جاي من أنهي داهية؟",
+            "answer": "يا أنا يا خالتي",
+            "character_and_actor": "فادية - دنيا سمير غانم"
+        },
+        {
+            "id": 91,
+            "difficulty": "medium",
+            "question": "كل ده عشان حتة لحمة؟",
+            "answer": "العيال كبرت",
+            "character_and_actor": "عاطف السكري - يونس شلبي"
+        },
+        {
+            "id": 92,
+            "difficulty": "medium",
+            "question": "الموضوع كبير أوي يا سعادتك",
+            "answer": "شاهد ماشفش حاجة",
+            "character_and_actor": "سرحان عبد البصير - عادل إمام"
+        },
+        {
+            "id": 93,
+            "difficulty": "medium",
+            "question": "إحنا في دولة قانون يا بهيم",
+            "answer": "عايز حقي",
+            "character_and_actor": "صابر الطيب - هاني رمزي"
+        },
+        {
+            "id": 94,
+            "difficulty": "medium",
+            "question": "ده أنا هخلي ليلتك سودا",
+            "answer": "طباخ الريس",
+            "character_and_actor": "متولي - طلعت زكريا"
+        },
+        {
+            "id": 95,
+            "difficulty": "medium",
+            "question": "اللي يزعل مننا يشرب من البحر",
+            "answer": "الجزيرة 2",
+            "character_and_actor": "منصور الحفني - أحمد السقا"
+        },
+        {
+            "id": 96,
+            "difficulty": "medium",
+            "question": "إنت بتعرف تعوم؟ لأ بس بعرف أغرق كويس",
+            "answer": "إسماعيل ياسين في الأسطول",
+            "character_and_actor": "إسماعيل - إسماعيل ياسين"
+        },
+        {
+            "id": 97,
+            "difficulty": "medium",
+            "question": "يا نهار أسود ومنيل بنيلة",
+            "answer": "حرامية في كي جي تو",
+            "character_and_actor": "سباعي - ماجد الكدواني"
+        },
+        {
+            "id": 98,
+            "difficulty": "medium",
+            "question": "أنا بكره الكدب والكدابين.. بس ساعات بضطر",
+            "answer": "كده رضا",
+            "character_and_actor": "سمسم - أحمد حلمي"
+        },
+        {
+            "id": 99,
+            "difficulty": "medium",
+            "question": "الستات دول نكد في نكد",
+            "answer": "تيمور وشفيقة",
+            "character_and_actor": "تيمور - أحمد السقا"
+        },
+        {
+            "id": 100,
+            "difficulty": "medium",
+            "question": "إنت جاي تشتغلني في بيتي؟",
+            "answer": "الواد سيد الشغال",
+            "character_and_actor": "شريف - مصطفى متولي"
+        },
+        {
+            "id": 101,
+            "difficulty": "medium",
+            "question": "ده إحنا طلعلنا حس يا جدعان",
+            "answer": "إسماعيلية رايح جاي",
+            "character_and_actor": "عبد المنعم - محمد هنيدي"
+        },
+        {
+            "id": 102,
+            "difficulty": "medium",
+            "question": "اللي ميعرفش الصقر يشويه",
+            "answer": "همام في أمستردام",
+            "character_and_actor": "يوسف - أحمد السقا"
+        },
+        {
+            "id": 103,
+            "difficulty": "medium",
+            "question": "إحنا اتجوزنا عشان نرتاح ولا عشان نتعذب؟",
+            "answer": "عريس من جهة أمنية",
+            "character_and_actor": "خطاب النجاري - عادل إمام"
+        },
+        {
+            "id": 104,
+            "difficulty": "medium",
+            "question": "يا عم سيبها على الله.. ما هي على الله من زمان",
+            "answer": "طيور الظلام",
+            "character_and_actor": "علي الزناتي - رياض الخولي"
+        },
+        {
+            "id": 105,
+            "difficulty": "medium",
+            "question": "أنا مش بتاع سياسة.. أنا بتاع كفتة",
+            "answer": "طباخ الريس",
+            "character_and_actor": "متولي - طلعت زكريا"
+        },
+        {
+            "id": 106,
+            "difficulty": "medium",
+            "question": "إنت بتعمل إيه بالظبط؟ بجمع طوابع",
+            "answer": "لا تراجع ولا استسلام",
+            "character_and_actor": "أدهم - أحمد مكي"
+        },
+        {
+            "id": 107,
+            "difficulty": "medium",
+            "question": "اللي يلعب بالنار يتحرق",
+            "answer": "مافيا",
+            "character_and_actor": "حسين - أحمد السقا"
+        },
+        {
+            "id": 108,
+            "difficulty": "medium",
+            "question": "يا بيه إحنا مش وش بهدلة",
+            "answer": "جعلتني مجرماً",
+            "character_and_actor": "الدكتور - حسن حسني"
+        },
+        {
+            "id": 109,
+            "difficulty": "medium",
+            "question": "إنت فاكر نفسك مين؟ أنا الفاجومي",
+            "answer": "الفاجومي",
+            "character_and_actor": "أحمد فؤاد نجم - خالد الصاوي"
+        },
+        {
+            "id": 110,
+            "difficulty": "medium",
+            "question": "كل واحد ينام على الجنب اللي يريحه",
+            "answer": "بوحة",
+            "character_and_actor": "المعلمة حلويات - لبلبة"
+        },
+        {
+            "id": 111,
+            "difficulty": "medium",
+            "question": "ده أنا كنت هتجوزها لولا الظروف",
+            "answer": "إكس لارج",
+            "character_and_actor": "عزمي - إبراهيم نصر"
+        },
+        {
+            "id": 112,
+            "difficulty": "medium",
+            "question": "إحنا في الهوا سوا يا صاحبي",
+            "answer": "كتكوت",
+            "character_and_actor": "يوسف - حسن حسني"
+        },
+        {
+            "id": 113,
+            "difficulty": "medium",
+            "question": "يا سلام على الدنيا لما تضحك للغلبان",
+            "answer": "الباشا تلميذ",
+            "character_and_actor": "طارق - رامز جلال"
+        },
+        {
+            "id": 114,
+            "difficulty": "medium",
+            "question": "إنت بتتكلم جد ولا بتهزر؟",
+            "answer": "بلبل حيران",
+            "character_and_actor": "نبيل - أحمد حلمي"
+        },
+        {
+            "id": 115,
+            "difficulty": "medium",
+            "question": "الراجل ميعيبوش إلا جيبه",
+            "answer": "همام في أمستردام",
+            "character_and_actor": "والد همام - عثمان محمد علي"
+        },
+        {
+            "id": 116,
+            "difficulty": "medium",
+            "question": "إنت جاي تهدي النفوس؟",
+            "answer": "أوعى وشك",
+            "character_and_actor": "حازم - أحمد عيد"
+        },
+        {
+            "id": 117,
+            "difficulty": "medium",
+            "question": "أنا لو منك أروح أنتحر",
+            "answer": "مطب صناعي",
+            "character_and_actor": "ميمي - أحمد حلمي"
+        },
+        {
+            "id": 118,
+            "difficulty": "medium",
+            "question": "يا عم إنت فاهمني غلط خالص",
+            "answer": "عبود على الحدود",
+            "character_and_actor": "منصور - كريم عبد العزيز"
+        },
+        {
+            "id": 119,
+            "difficulty": "medium",
+            "question": "إحنا مابنخافش من حد غير ربنا",
+            "answer": "إبراهيم الأبيض",
+            "character_and_actor": "إبراهيم الأبيض - أحمد السقا"
+        },
+        {
+            "id": 120,
+            "difficulty": "medium",
+            "question": "ده شغل عيال صغيرة",
+            "answer": "تيتو",
+            "character_and_actor": "رفعت السكري - خالد صالح"
+        },
+        {
+            "id": 121,
+            "difficulty": "medium",
+            "question": "إنت بتعمل إيه في أوضتي؟",
+            "answer": "عريس من جهة أمنية",
+            "character_and_actor": "طارق - شريف منير"
+        },
+        {
+            "id": 122,
+            "difficulty": "medium",
+            "question": "اللي فات مات وإحنا ولاد النهاردة",
+            "answer": "الفرح",
+            "character_and_actor": "زينهم - خالد الصاوي"
+        },
+        {
+            "id": 123,
+            "difficulty": "medium",
+            "question": "يا بخت من وفق راسين في الحلال",
+            "answer": "جوازة ميري",
+            "character_and_actor": "بيري - ياسمين عبد العزيز"
+        },
+        {
+            "id": 124,
+            "difficulty": "medium",
+            "question": "إحنا اتفقنا على مبدأ",
+            "answer": "هي فوضى",
+            "character_and_actor": "حاتم - خالد صالح"
+        },
+        {
+            "id": 125,
+            "difficulty": "medium",
+            "question": "اللي ملوش خير في أهله ملوش خير في حد",
+            "answer": "الجزيرة",
+            "character_and_actor": "فريدة - هند صبري"
+        },
+        {
+            "id": 126,
+            "difficulty": "medium",
+            "question": "إنت فاكرها سايبة؟",
+            "answer": "السفارة في العمارة",
+            "character_and_actor": "شريف خيري - عادل إمام"
+        },
+        {
+            "id": 127,
+            "difficulty": "medium",
+            "question": "يا دين النبي على الجمال",
+            "answer": "حاحا وتفاحة",
+            "character_and_actor": "تفاحة - ياسمين عبد العزيز"
+        },
+        {
+            "id": 128,
+            "difficulty": "medium",
+            "question": "أنا تعبت من الكدب",
+            "answer": "آسف على الإزعاج",
+            "character_and_actor": "حسن صلاح الدين - أحمد حلمي"
+        },
+        {
+            "id": 129,
+            "difficulty": "medium",
+            "question": "كل شيخ وله طريقة",
+            "answer": "الساحر",
+            "character_and_actor": "منصور بهجت - محمود عبد العزيز"
+        },
+        {
+            "id": 130,
+            "difficulty": "medium",
+            "question": "إنت بتتكلم بجد يا أستاذ؟",
+            "answer": "الرهينة",
+            "character_and_actor": "مصطفى - أحمد عز"
+        },
+        {
+            "id": 131,
+            "difficulty": "medium",
+            "question": "الدنيا دي غريبة أوي يا خال",
+            "answer": "عمارة يعقوبيان",
+            "character_and_actor": "زكي الدسوقي - عادل إمام"
+        },
+        {
+            "id": 132,
+            "difficulty": "medium",
+            "question": "إحنا غلابة أوي يا بيه",
+            "answer": "حين ميسرة",
+            "character_and_actor": "عادل - عمرو سعد"
+        },
+        {
+            "id": 133,
+            "difficulty": "medium",
+            "question": "اللي يجي على كرامتي أدوسه",
+            "answer": "ولاد رزق",
+            "character_and_actor": "رضا رزق - أحمد عز"
+        },
+        {
+            "id": 134,
+            "difficulty": "medium",
+            "question": "إنت جاي تشتغل هنا إزاي؟ بالواسطة طبعاً",
+            "answer": "مرجان أحمد مرجان",
+            "character_and_actor": "تامر - شريف سلامة"
+        },
+        {
+            "id": 135,
+            "difficulty": "medium",
+            "question": "يا عم إنت بتقول إيه بس؟",
+            "answer": "سمير وشهير وبهير",
+            "character_and_actor": "سمير - أحمد فهمي"
+        },
+        {
+            "id": 136,
+            "difficulty": "medium",
+            "question": "إحنا تلاتة ملناش رابع",
+            "answer": "سمير وشهير وبهير",
+            "character_and_actor": "شهير - شيكو"
+        },
+        {
+            "id": 137,
+            "difficulty": "medium",
+            "question": "الحياة حلوة بس نفهمها",
+            "answer": "الحرب العالمية الثالثة",
+            "character_and_actor": "خميس - أحمد فهمي"
+        },
+        {
+            "id": 138,
+            "difficulty": "medium",
+            "question": "إنت بتبص في ورقتي ليه؟",
+            "answer": "الناظر",
+            "character_and_actor": "اللمبي - محمد سعد"
+        },
+        {
+            "id": 139,
+            "difficulty": "medium",
+            "question": "اللي معاه قرش محيره يجيب حمام ويطيره",
+            "answer": "كده رضا",
+            "character_and_actor": "بيبو - أحمد حلمي"
+        },
+        {
+            "id": 140,
+            "difficulty": "medium",
+            "question": "إحنا اتبهدلنا في الغربة",
+            "answer": "النمر الأسود",
+            "character_and_actor": "محمد حسن - أحمد زكي"
+        },
+        {
+            "id": 141,
+            "difficulty": "medium",
+            "question": "يا سلام لو الدنيا تمشي بالحب",
+            "answer": "ألف مبروك",
+            "character_and_actor": "أحمد جلال - أحمد حلمي"
+        },
+        {
+            "id": 142,
+            "difficulty": "medium",
+            "question": "إنت جاي تهزر في وقت الجد؟",
+            "answer": "الخلية",
+            "character_and_actor": "سيف الضبع - أحمد عز"
+        },
+        {
+            "id": 143,
+            "difficulty": "medium",
+            "question": "الراجل بكلمته",
+            "answer": "كباريه",
+            "character_and_actor": "شعلان - فتحي عبد الوهاب"
+        },
+        {
+            "id": 144,
+            "difficulty": "medium",
+            "question": "إحنا بنلعب في الوقت الضايع",
+            "answer": "الحريف",
+            "character_and_actor": "فارس - عادل إمام"
+        },
+        {
+            "id": 145,
+            "difficulty": "medium",
+            "question": "يا بيه ده أنا راجل على باب الله",
+            "answer": "معالي الوزير",
+            "character_and_actor": "رأفت رستم - أحمد زكي"
+        },
+        {
+            "id": 146,
+            "difficulty": "medium",
+            "question": "إنت فاكرني عبيط؟",
+            "answer": "الفيل الأزرق",
+            "character_and_actor": "يحيى راشد - كريم عبد العزيز"
+        },
+        {
+            "id": 147,
+            "difficulty": "medium",
+            "question": "اللي يخاف من العفريت يطلعله",
+            "answer": "عفريت ترانزيت",
+            "character_and_actor": "نادر - بيومي فؤاد"
+        },
+        {
+            "id": 148,
+            "difficulty": "medium",
+            "question": "إحنا مابننساش تارنا أبداً",
+            "answer": "ولاد رزق 2",
+            "character_and_actor": "ربيع رزق - عمرو يوسف"
+        },
+        {
+            "id": 149,
+            "difficulty": "medium",
+            "question": "ده أنا هوريك النجوم في عز الضهر",
+            "answer": "بنك الحظ",
+            "character_and_actor": "محمد صالح - محمد ممدوح"
+        },
+        {
+            "id": 150,
+            "difficulty": "medium",
+            "question": "إنت بتعمل إيه يا مجنون؟",
+            "answer": "لا تراجع ولا استسلام",
+            "character_and_actor": "جيرمين - دنيا سمير غانم"
+        },
+        {
+            "id": 151,
+            "difficulty": "hard",
+            "question": "يا عيني على الصبر لما يطول",
+            "answer": "دعاء الكروان",
+            "character_and_actor": "آمنة - فاتن حمامة"
+        },
+        {
+            "id": 152,
+            "difficulty": "hard",
+            "question": "أنا حرة.. مش عايزة حد يتحكم فيا",
+            "answer": "أنا حرة",
+            "character_and_actor": "أمينة - لبنى عبد العزيز"
+        },
+        {
+            "id": 153,
+            "difficulty": "hard",
+            "question": "القانون لا يحمي المغفلين",
+            "answer": "الزوجة 13",
+            "character_and_actor": "مراد - رشدي أباظة"
+        },
+        {
+            "id": 154,
+            "difficulty": "hard",
+            "question": "إحنا التلامذة",
+            "answer": "إحنا التلامذة",
+            "character_and_actor": "عادل - عمر الشريف"
+        },
+        {
+            "id": 155,
+            "difficulty": "hard",
+            "question": "يا سلام على الحب لما يجمع بين قلبين",
+            "answer": "شارع الحب",
+            "character_and_actor": "عبد المنعم - عبد الحليم حافظ"
+        },
+        {
+            "id": 156,
+            "difficulty": "hard",
+            "question": "الأرض دي عرضنا.. واللي يفرط في أرضه يفرط في عرضه",
+            "answer": "الأرض",
+            "character_and_actor": "محمد أبو سويلم - محمود المليجي"
+        },
+        {
+            "id": 157,
+            "difficulty": "hard",
+            "question": "أنا مش مجنون.. هما اللي مجانين",
+            "answer": "باب الحديد",
+            "character_and_actor": "قناوي - يوسف شاهين"
+        },
+        {
+            "id": 158,
+            "difficulty": "hard",
+            "question": "يا بيه ده إحنا ولاد بلد",
+            "answer": "بين القصرين",
+            "character_and_actor": "السيد أحمد عبد الجواد - يحيى شاهين"
+        },
+        {
+            "id": 159,
+            "difficulty": "hard",
+            "question": "إنتي طالق بالتلاتة",
+            "answer": "أريد حلاً",
+            "character_and_actor": "درية - فاتن حمامة"
+        },
+        {
+            "id": 160,
+            "difficulty": "hard",
+            "question": "الفلوس مش كل حاجة في الدنيا",
+            "answer": "شباب امرأة",
+            "character_and_actor": "شفاعات - تحية كاريوكا"
+        },
+        {
+            "id": 161,
+            "difficulty": "hard",
+            "question": "يا حلاوة الدنيا",
+            "answer": "غزل البنات",
+            "character_and_actor": "حمام - نجيب الريحاني"
+        },
+        {
+            "id": 162,
+            "difficulty": "hard",
+            "question": "أنا أستاذ حمام.. مدرس لغة عربية",
+            "answer": "غزل البنات",
+            "character_and_actor": "حمام - نجيب الريحاني"
+        },
+        {
+            "id": 163,
+            "difficulty": "hard",
+            "question": "الستات دول مالهمش أمان",
+            "answer": "سي عمر",
+            "character_and_actor": "جابر شهاب الدين - نجيب الريحاني"
+        },
+        {
+            "id": 164,
+            "difficulty": "hard",
+            "question": "إيه ده.. إنت بتعرف تتكلم فرنساوي؟",
+            "answer": "إشاعة حب",
+            "character_and_actor": "حسين - عمر الشريف"
+        },
+        {
+            "id": 165,
+            "difficulty": "hard",
+            "question": "يا عيني على الوفاء",
+            "answer": "رصيف نمرة 5",
+            "character_and_actor": "خميس - فريد شوقي"
+        },
+        {
+            "id": 166,
+            "difficulty": "hard",
+            "question": "أنا ملك الترسو",
+            "answer": "جعلوني مجرماً",
+            "character_and_actor": "سلطان - فريد شوقي"
+        },
+        {
+            "id": 167,
+            "difficulty": "hard",
+            "question": "يا سلام سلم.. الحيطة بتتكلم",
+            "answer": "العتبة الخضراء",
+            "character_and_actor": "مبروك - إسماعيل ياسين"
+        },
+        {
+            "id": 168,
+            "difficulty": "hard",
+            "question": "إنت بتبصلي كده ليه؟ هو أنا عليا عفريت؟",
+            "answer": "عفريتة إسماعيل ياسين",
+            "character_and_actor": "إسماعيل - إسماعيل ياسين"
+        },
+        {
+            "id": 169,
+            "difficulty": "hard",
+            "question": "الكلمة شرف",
+            "answer": "كلمة شرف",
+            "character_and_actor": "سالم - فريد شوقي"
+        },
+        {
+            "id": 170,
+            "difficulty": "hard",
+            "question": "إحنا في زمن العجايب",
+            "answer": "بداية ونهاية",
+            "character_and_actor": "حسنين - عمر الشريف"
+        },
+        {
+            "id": 171,
+            "difficulty": "hard",
+            "question": "يا سيدي أنا موافق.. بس بشروطي",
+            "answer": "مراتي مدير عام",
+            "character_and_actor": "حسين - صلاح ذو الفقار"
+        },
+        {
+            "id": 172,
+            "difficulty": "hard",
+            "question": "الشغل في البيت أصعب من الشغل في المكتب",
+            "answer": "مراتي مدير عام",
+            "character_and_actor": "عصمت - شادية"
+        },
+        {
+            "id": 173,
+            "difficulty": "hard",
+            "question": "يا خبر أبيض.. ده إحنا اتفضحنا",
+            "answer": "عفريت مراتي",
+            "character_and_actor": "صالح - صلاح ذو الفقار"
+        },
+        {
+            "id": 174,
+            "difficulty": "hard",
+            "question": "أنا بحب السينما أوي",
+            "answer": "عفريت مراتي",
+            "character_and_actor": "عايدة - شادية"
+        },
+        {
+            "id": 175,
+            "difficulty": "hard",
+            "question": "الراجل الحقيقي هو اللي يحترم مراته",
+            "answer": "كرامة زوجتي",
+            "character_and_actor": "نادية - شادية"
+        },
+        {
+            "id": 176,
+            "difficulty": "hard",
+            "question": "يا واد يا شقي",
+            "answer": "صغيرة على الحب",
+            "character_and_actor": "سميحة - سعاد حسني"
+        },
+        {
+            "id": 177,
+            "difficulty": "hard",
+            "question": "إحنا بتوع الفن والجمال",
+            "answer": "أبي فوق الشجرة",
+            "character_and_actor": "فردوس - نادية لطفي"
+        },
+        {
+            "id": 178,
+            "difficulty": "hard",
+            "question": "الظلم وحش أوي يا ناس",
+            "answer": "شيء من الخوف",
+            "character_and_actor": "عتريس - محمود مرسي"
+        },
+        {
+            "id": 179,
+            "difficulty": "hard",
+            "question": "جواز عتريس من فؤادة باطل",
+            "answer": "شيء من الخوف",
+            "character_and_actor": "الشيخ إبراهيم - يحيى شاهين"
+        },
+        {
+            "id": 180,
+            "difficulty": "hard",
+            "question": "يا بوي.. الدنيا اتغيرت",
+            "answer": "النداهة",
+            "character_and_actor": "فتحية - ماجدة"
+        },
+        {
+            "id": 181,
+            "difficulty": "hard",
+            "question": "الحرية غالية أوي",
+            "answer": "في بيتنا رجل",
+            "character_and_actor": "إبراهيم حمدي - عمر الشريف"
+        },
+        {
+            "id": 182,
+            "difficulty": "hard",
+            "question": "إنت بتعرف ترقص؟ لأ بس بعرف أتفرج",
+            "answer": "تمر حنة",
+            "character_and_actor": "تمر حنة - نعيمة عاكف"
+        },
+        {
+            "id": 183,
+            "difficulty": "hard",
+            "question": "اللي يبني بيته على الرمل يقع",
+            "answer": "الفتوة",
+            "character_and_actor": "هريدي - فريد شوقي"
+        },
+        {
+            "id": 184,
+            "difficulty": "hard",
+            "question": "يا سلام على الطرب الأصيل",
+            "answer": "لحن الوفاء",
+            "character_and_actor": "جلال - عبد الحليم حافظ"
+        },
+        {
+            "id": 185,
+            "difficulty": "hard",
+            "question": "أنا قلبي دليلي",
+            "answer": "قلبي دليلي",
+            "character_and_actor": "ليلى - ليلى مراد"
+        },
+        {
+            "id": 186,
+            "difficulty": "hard",
+            "question": "إحنا في الهوا سوا",
+            "answer": "الهوا سوا",
+            "character_and_actor": "شادية - شادية"
+        },
+        {
+            "id": 187,
+            "difficulty": "hard",
+            "question": "يا عين يا ليل",
+            "answer": "شفيقة ومتولي",
+            "character_and_actor": "شفيقة - سعاد حسني"
+        },
+        {
+            "id": 188,
+            "difficulty": "hard",
+            "question": "البلد دي عايزة اللي يفهمها",
+            "answer": "الكرنك",
+            "character_and_actor": "خالد صفوان - كمال الشناوي"
+        },
+        {
+            "id": 189,
+            "difficulty": "hard",
+            "question": "إحنا جيل اتظلم كتير",
+            "answer": "الكرنك",
+            "character_and_actor": "زينب - سعاد حسني"
+        },
+        {
+            "id": 190,
+            "difficulty": "hard",
+            "question": "الناس مقامات يا بيه",
+            "answer": "ثرثرة فوق النيل",
+            "character_and_actor": "أنيس زكي - عماد حمدي"
+        },
+        {
+            "id": 191,
+            "difficulty": "hard",
+            "question": "كله رايح في الهوا",
+            "answer": "ثرثرة فوق النيل",
+            "character_and_actor": "رجب القاضي - أحمد رمزي"
+        },
+        {
+            "id": 192,
+            "difficulty": "hard",
+            "question": "يا عم إحنا بنحلم",
+            "answer": "ميرامار",
+            "character_and_actor": "زهرة - شادية"
+        },
+        {
+            "id": 193,
+            "difficulty": "hard",
+            "question": "الدنيا دوارة",
+            "answer": "اللص والكلاب",
+            "character_and_actor": "سعيد مهران - شكري سرحان"
+        },
+        {
+            "id": 194,
+            "difficulty": "hard",
+            "question": "الكلاب لازم تموت",
+            "answer": "اللص والكلاب",
+            "character_and_actor": "سعيد مهران - شكري سرحان"
+        },
+        {
+            "id": 195,
+            "difficulty": "hard",
+            "question": "إحنا في زمن الصمت",
+            "answer": "الرصاصة لا تزال في جيبي",
+            "character_and_actor": "محمد - محمود ياسين"
+        },
+        {
+            "id": 196,
+            "difficulty": "hard",
+            "question": "العبور مش بس عبور قناة.. ده عبور نفس",
+            "answer": "أبناء الصمت",
+            "character_and_actor": "مجدي - نور الشريف"
+        },
+        {
+            "id": 197,
+            "difficulty": "hard",
+            "question": "الحياة تستمر مهما حصل",
+            "answer": "العمر لحظة",
+            "character_and_actor": "نعمت - ماجدة"
+        },
+        {
+            "id": 198,
+            "difficulty": "hard",
+            "question": "أنا بكره الظلم والظالمين",
+            "answer": "الناصر صلاح الدين",
+            "character_and_actor": "صلاح الدين - أحمد مظهر"
+        },
+        {
+            "id": 199,
+            "difficulty": "hard",
+            "question": "الدين لله والوطن للجميع",
+            "answer": "الناصر صلاح الدين",
+            "character_and_actor": "عيسى العوام - صلاح ذو الفقار"
+        },
+        {
+            "id": 200,
+            "difficulty": "hard",
+            "question": "يا سيدي الفاضل.. التاريخ لا يرحم",
+            "answer": "وا إسلاماه",
+            "character_and_actor": "قطز - أحمد مظهر"
+        }
+    ]
+}

@@ -1,0 +1,1805 @@
+{
+    "category": "الكلمة في أغنية",
+    "items": [
+        {
+            "id": 1,
+            "difficulty": "easy",
+            "question": "قمر",
+            "sample_answers": [
+                "قمرين دول ولا عينيك - عمرو دياب",
+                "يا قمر يا اسكندراني - مصطفى قمر"
+            ]
+        },
+        {
+            "id": 2,
+            "difficulty": "easy",
+            "question": "ليل",
+            "sample_answers": [
+                "الليلة يا سمرة - محمد منير",
+                "سهر الليالي - فيروز"
+            ]
+        },
+        {
+            "id": 3,
+            "difficulty": "easy",
+            "question": "حبيبي",
+            "sample_answers": [
+                "حبيبي يا نور العين - عمرو دياب",
+                "قولي عملك إيه قلبي - محمد عبد الوهاب"
+            ]
+        },
+        {
+            "id": 4,
+            "difficulty": "easy",
+            "question": "شمس",
+            "sample_answers": [
+                "طلعت يا محلا نورها - سيد درويش",
+                "الشمس الجريئة - حنان"
+            ]
+        },
+        {
+            "id": 5,
+            "difficulty": "easy",
+            "question": "طريق",
+            "sample_answers": [
+                "أول طريقك - ويجز",
+                "الطريق إلى إيلات - محمد الحلو"
+            ]
+        },
+        {
+            "id": 6,
+            "difficulty": "easy",
+            "question": "البحر",
+            "sample_answers": [
+                "البحر بيضحك ليه - علي الحجار",
+                "على شط بحر الهوى - كارم محمود"
+            ]
+        },
+        {
+            "id": 7,
+            "difficulty": "easy",
+            "question": "قلبي",
+            "sample_answers": [
+                "قلبي دليلي - ليلى مراد",
+                "قلبي عشقها - راغب علامة"
+            ]
+        },
+        {
+            "id": 8,
+            "difficulty": "easy",
+            "question": "عينيك",
+            "sample_answers": [
+                "في يوم وليلة - وردة",
+                "تملي معاك - عمرو دياب"
+            ]
+        },
+        {
+            "id": 9,
+            "difficulty": "easy",
+            "question": "الهوى",
+            "sample_answers": [
+                "الهوى هوايا - عبد الحليم حافظ",
+                "يا مسافر وحدك - محمد عبد الوهاب"
+            ]
+        },
+        {
+            "id": 10,
+            "difficulty": "easy",
+            "question": "الناس",
+            "sample_answers": [
+                "الناس الرايقة - رامي عياش وأحمد عدوية",
+                "إيه اليوم الحلو ده - أحمد سعد"
+            ]
+        },
+        {
+            "id": 11,
+            "difficulty": "easy",
+            "question": "الدنيا",
+            "sample_answers": [
+                "الدنيا ريشة في هوا - سعد عبد الوهاب",
+                "حلوة يا بلدي - داليدا"
+            ]
+        },
+        {
+            "id": 12,
+            "difficulty": "easy",
+            "question": "سنة",
+            "sample_answers": [
+                "كل سنة وأنت طيب - تامر حسني",
+                "سنة ورا سنة - أصالة"
+            ]
+        },
+        {
+            "id": 13,
+            "difficulty": "easy",
+            "question": "يوم",
+            "sample_answers": [
+                "في يوم وليلة - وردة",
+                "يوم ورا يوم - سميرة سعيد والشاب مامي"
+            ]
+        },
+        {
+            "id": 14,
+            "difficulty": "easy",
+            "question": "حب",
+            "sample_answers": [
+                "حب إيه - أم كلثوم",
+                "أول مرة تحب يا قلبي - عبد الحليم حافظ"
+            ]
+        },
+        {
+            "id": 15,
+            "difficulty": "easy",
+            "question": "نار",
+            "sample_answers": [
+                "نار يا حبيبي نار - عبد الحليم حافظ",
+                "آه ونص - نانسي عجرم"
+            ]
+        },
+        {
+            "id": 16,
+            "difficulty": "easy",
+            "question": "سما",
+            "sample_answers": [
+                "فوق السما - كايروكي",
+                "طاير يا هوى - محمد رشدي"
+            ]
+        },
+        {
+            "id": 17,
+            "difficulty": "easy",
+            "question": "نجمة",
+            "sample_answers": [
+                "يا نجمة - مسار إجباري",
+                "نجمة في السما - حميد الشاعري"
+            ]
+        },
+        {
+            "id": 18,
+            "difficulty": "easy",
+            "question": "ورد",
+            "sample_answers": [
+                "الورد جميل - أم كلثوم",
+                "يا ورد مين يشتريك - محمد عبد الوهاب"
+            ]
+        },
+        {
+            "id": 19,
+            "difficulty": "easy",
+            "question": "مصر",
+            "sample_answers": [
+                "يا حبيبتي يا مصر - شادية",
+                "بشرة خير - حسين الجسمي"
+            ]
+        },
+        {
+            "id": 20,
+            "difficulty": "easy",
+            "question": "حلوة",
+            "sample_answers": [
+                "حلوة يا بلدي - داليدا",
+                "الحلوة دي قامت تعجن - سيد درويش"
+            ]
+        },
+        {
+            "id": 21,
+            "difficulty": "easy",
+            "question": "صوت",
+            "sample_answers": [
+                "صوت الحرية - كايروكي وهاني عادل",
+                "على صوتك بالغنا - محمد منير"
+            ]
+        },
+        {
+            "id": 22,
+            "difficulty": "easy",
+            "question": "حلم",
+            "sample_answers": [
+                "حلم العمر - تامر حسني",
+                "أنا حلمت بيك - كايروكي"
+            ]
+        },
+        {
+            "id": 23,
+            "difficulty": "easy",
+            "question": "عمر",
+            "sample_answers": [
+                "أنت عمري - أم كلثوم",
+                "يا أغلى اسم في الوجود - نجاح سلام"
+            ]
+        },
+        {
+            "id": 24,
+            "difficulty": "easy",
+            "question": "زمان",
+            "sample_answers": [
+                "فين أيامك فين - محمد فؤاد",
+                "كان يا ما كان - ميادة الحناوي"
+            ]
+        },
+        {
+            "id": 25,
+            "difficulty": "easy",
+            "question": "دموع",
+            "sample_answers": [
+                "دموعك غالية - هاني شاكر",
+                "عيني بتبكي - تامر عاشور"
+            ]
+        },
+        {
+            "id": 26,
+            "difficulty": "easy",
+            "question": "فرح",
+            "sample_answers": [
+                "الليلة فرحة - حكيم",
+                "يا دبلة الخطوبة - شادية"
+            ]
+        },
+        {
+            "id": 27,
+            "difficulty": "easy",
+            "question": "سهر",
+            "sample_answers": [
+                "سهر الليالي - فيروز",
+                "سهرانين - كارول سماحة"
+            ]
+        },
+        {
+            "id": 28,
+            "difficulty": "easy",
+            "question": "نور",
+            "sample_answers": [
+                "حبيبي يا نور العين - عمرو دياب",
+                "يا نور النبي - محمد الكحلاوي"
+            ]
+        },
+        {
+            "id": 29,
+            "difficulty": "easy",
+            "question": "بيت",
+            "sample_answers": [
+                "يا بيوت السويس - محمد حمام",
+                "على باب بيتنا - كايروكي"
+            ]
+        },
+        {
+            "id": 30,
+            "difficulty": "easy",
+            "question": "باب",
+            "sample_answers": [
+                "على بابي واقف قمرين - ملحم بركات",
+                "افتح قلبك - هشام عباس"
+            ]
+        },
+        {
+            "id": 31,
+            "difficulty": "easy",
+            "question": "أغنية",
+            "sample_answers": [
+                "غنوة حب - محمد فؤاد",
+                "بكتب اسمك يا حبيبي - فيروز"
+            ]
+        },
+        {
+            "id": 32,
+            "difficulty": "easy",
+            "question": "روح",
+            "sample_answers": [
+                "روحي فيك - أصالة",
+                "يا روحي غيبي - إليسا"
+            ]
+        },
+        {
+            "id": 33,
+            "difficulty": "easy",
+            "question": "شوق",
+            "sample_answers": [
+                "الشوق الشوق - محمد منير",
+                "أشواق - رياض السنباطي"
+            ]
+        },
+        {
+            "id": 34,
+            "difficulty": "easy",
+            "question": "أمل",
+            "sample_answers": [
+                "أمل حياتي - أم كلثوم",
+                "بكرة أحلى - محمد حماقي"
+            ]
+        },
+        {
+            "id": 35,
+            "difficulty": "easy",
+            "question": "مطر",
+            "sample_answers": [
+                "مطر مطر - فيروز",
+                "شتا - محمد منير"
+            ]
+        },
+        {
+            "id": 36,
+            "difficulty": "easy",
+            "question": "ريح",
+            "sample_answers": [
+                "يا ريح يا مرسال - فيروز",
+                "هبت رياح الجنة - ماهر زين"
+            ]
+        },
+        {
+            "id": 37,
+            "difficulty": "easy",
+            "question": "موج",
+            "sample_answers": [
+                "موج البحر - علي الحجار",
+                "يا موج البحر - محمد منير"
+            ]
+        },
+        {
+            "id": 38,
+            "difficulty": "easy",
+            "question": "سفر",
+            "sample_answers": [
+                "يا مسافر وحدك - محمد عبد الوهاب",
+                "مسافر - إيهاب توفيق"
+            ]
+        },
+        {
+            "id": 39,
+            "difficulty": "easy",
+            "question": "غربة",
+            "sample_answers": [
+                "يا غربة - مروان خوري",
+                "غريب في بلاد غريبة - محمد رشدي"
+            ]
+        },
+        {
+            "id": 40,
+            "difficulty": "easy",
+            "question": "بلدي",
+            "sample_answers": [
+                "حلوة يا بلدي - داليدا",
+                "بلدي يا بلدي - محمد فوزي"
+            ]
+        },
+        {
+            "id": 41,
+            "difficulty": "easy",
+            "question": "ضحكة",
+            "sample_answers": [
+                "ضحكة عيون حبيبي - فريد الأطرش",
+                "اضحك الصورة تطلع حلوة - عبد الحليم حافظ"
+            ]
+        },
+        {
+            "id": 42,
+            "difficulty": "easy",
+            "question": "كلام",
+            "sample_answers": [
+                "كلام الناس - جورج وسوف",
+                "كلام عينيه - شيرين"
+            ]
+        },
+        {
+            "id": 43,
+            "difficulty": "easy",
+            "question": "سلام",
+            "sample_answers": [
+                "سلامات يا هوا - نجاة الصغيرة",
+                "ألف سلامة - حکيم"
+            ]
+        },
+        {
+            "id": 44,
+            "difficulty": "easy",
+            "question": "وداع",
+            "sample_answers": [
+                "الوداع - عمرو دياب",
+                "يا مسافر وناسي هواك - ليلى مراد"
+            ]
+        },
+        {
+            "id": 45,
+            "difficulty": "easy",
+            "question": "لقا",
+            "sample_answers": [
+                "أول لقا - كاظم الساهر",
+                "يا لقا الأحباب - فايزة أحمد"
+            ]
+        },
+        {
+            "id": 46,
+            "difficulty": "easy",
+            "question": "جمال",
+            "sample_answers": [
+                "يا جميل ياللي هنا - محمد فوزي",
+                "جماله - عمرو دياب"
+            ]
+        },
+        {
+            "id": 47,
+            "difficulty": "easy",
+            "question": "عشق",
+            "sample_answers": [
+                "قلبي عشقها - راغب علامة",
+                "عشقتك - فضل شاكر"
+            ]
+        },
+        {
+            "id": 48,
+            "difficulty": "easy",
+            "question": "جنة",
+            "sample_answers": [
+                "جنة جنة - ماجد المهندس",
+                "يا جنة - ويجز"
+            ]
+        },
+        {
+            "id": 49,
+            "difficulty": "easy",
+            "question": "ذهب",
+            "sample_answers": [
+                "يا دلع ادلع - صباح",
+                "قلبك دهب - نوال الزغبي"
+            ]
+        },
+        {
+            "id": 50,
+            "difficulty": "easy",
+            "question": "عسل",
+            "sample_answers": [
+                "يا عسل - صابر الرباعي",
+                "زي العسل - صباح"
+            ]
+        },
+        {
+            "id": 51,
+            "difficulty": "easy",
+            "question": "سكر",
+            "sample_answers": [
+                "سكر محلي محطوط على كريمة - عمر كمال وحسن شاكوش",
+                "يا سكر - أحمد سعد"
+            ]
+        },
+        {
+            "id": 52,
+            "difficulty": "easy",
+            "question": "مية",
+            "sample_answers": [
+                "مية مية - محمد رمضان",
+                "عطشان يا صبايا - محمد رشدي"
+            ]
+        },
+        {
+            "id": 53,
+            "difficulty": "easy",
+            "question": "إيدك",
+            "sample_answers": [
+                "إيدك في إيدي - محمد حماقي",
+                "حط إيدك يا عين - سعاد حسني"
+            ]
+        },
+        {
+            "id": 54,
+            "difficulty": "easy",
+            "question": "راسي",
+            "sample_answers": [
+                "على راسي - كايروكي",
+                "تاج راسي - تامر حسني"
+            ]
+        },
+        {
+            "id": 55,
+            "difficulty": "easy",
+            "question": "خطوة",
+            "sample_answers": [
+                "خطوة - مصطفى حجاج",
+                "أول خطوة - أنغام"
+            ]
+        },
+        {
+            "id": 56,
+            "difficulty": "easy",
+            "question": "صورة",
+            "sample_answers": [
+                "صورة - عبد الحليم حافظ",
+                "ألبوم صور - كايروكي"
+            ]
+        },
+        {
+            "id": 57,
+            "difficulty": "easy",
+            "question": "حكاية",
+            "sample_answers": [
+                "حكايتي مع الزمان - وردة",
+                "حكاية حب - عبد الحليم حافظ"
+            ]
+        },
+        {
+            "id": 58,
+            "difficulty": "easy",
+            "question": "سر",
+            "sample_answers": [
+                "سر الحياة - أصالة",
+                "بين البينين - شيرين"
+            ]
+        },
+        {
+            "id": 59,
+            "difficulty": "easy",
+            "question": "وعد",
+            "sample_answers": [
+                "وعد مكتوب - محمد منير",
+                "أوعدك - سعاد محمد"
+            ]
+        },
+        {
+            "id": 60,
+            "difficulty": "easy",
+            "question": "عهد",
+            "sample_answers": [
+                "على عهدي - أم كلثوم",
+                "عهد الله - مدحت صالح"
+            ]
+        },
+        {
+            "id": 61,
+            "difficulty": "easy",
+            "question": "ظلم",
+            "sample_answers": [
+                "ظلموه - عبد الحليم حافظ",
+                "الظلم ليه - محمد عبد الوهاب"
+            ]
+        },
+        {
+            "id": 62,
+            "difficulty": "easy",
+            "question": "صبر",
+            "sample_answers": [
+                "الصبر طيب - أم كلثوم",
+                "يا صبر أيوب - محمد قنديل"
+            ]
+        },
+        {
+            "id": 63,
+            "difficulty": "easy",
+            "question": "فجر",
+            "sample_answers": [
+                "الفجر لاح - محمد عبد الوهاب",
+                "طلع الفجر - فيروز"
+            ]
+        },
+        {
+            "id": 64,
+            "difficulty": "easy",
+            "question": "صبح",
+            "sample_answers": [
+                "صباح الخير يا مولاتي - سعاد حسني",
+                "الصبح بدري - محمد منير"
+            ]
+        },
+        {
+            "id": 65,
+            "difficulty": "easy",
+            "question": "مسا",
+            "sample_answers": [
+                "مسا الجمال - عمرو دياب",
+                "يا مسا الفل - أحمد عدوية"
+            ]
+        },
+        {
+            "id": 66,
+            "difficulty": "easy",
+            "question": "بكرة",
+            "sample_answers": [
+                "بكرة يا حبيبي - وردة",
+                "بكرة أحلى - محمد حماقي"
+            ]
+        },
+        {
+            "id": 67,
+            "difficulty": "easy",
+            "question": "إمبارح",
+            "sample_answers": [
+                "إمبارح كان عمري عشرين - محمد رشدي",
+                "زي إمبارح - عمرو دياب"
+            ]
+        },
+        {
+            "id": 68,
+            "difficulty": "easy",
+            "question": "النهاردة",
+            "sample_answers": [
+                "النهاردة عيد ميلادي - حمادة هلال",
+                "إيه اليوم الحلو ده - أحمد سعد"
+            ]
+        },
+        {
+            "id": 69,
+            "difficulty": "easy",
+            "question": "شارع",
+            "sample_answers": [
+                "شارع الحواديت - محمد منير",
+                "في شارعنا - عبد الحليم حافظ"
+            ]
+        },
+        {
+            "id": 70,
+            "difficulty": "easy",
+            "question": "بلاد",
+            "sample_answers": [
+                "بلادي بلادي - سيد درويش",
+                "يا بلادي - عزيز الشافعي ورامي جمال"
+            ]
+        },
+        {
+            "id": 71,
+            "difficulty": "medium",
+            "question": "قهوة",
+            "sample_answers": [
+                "فنجان قهوة - عبد الحليم حافظ",
+                "قهوة سادة - كايروكي"
+            ]
+        },
+        {
+            "id": 72,
+            "difficulty": "medium",
+            "question": "شباك",
+            "sample_answers": [
+                "شباكنا ستايره حرير - شادية",
+                "على شباكك - مسار إجباري"
+            ]
+        },
+        {
+            "id": 73,
+            "difficulty": "medium",
+            "question": "سكة",
+            "sample_answers": [
+                "السكة شمال - كايروكي",
+                "سكة العاشقين - مصطفى قمر"
+            ]
+        },
+        {
+            "id": 74,
+            "difficulty": "medium",
+            "question": "مراية",
+            "sample_answers": [
+                "ببص في المراية - شيرين",
+                "مرايتي - إليسا"
+            ]
+        },
+        {
+            "id": 75,
+            "difficulty": "medium",
+            "question": "قطار",
+            "sample_answers": [
+                "قطار الحياة - محمد منير",
+                "قطر الفراق - جورج وسوف"
+            ]
+        },
+        {
+            "id": 76,
+            "difficulty": "medium",
+            "question": "زحمة",
+            "sample_answers": [
+                "زحمة يا دنيا زحمة - أحمد عدوية",
+                "وسط الزحمة - كايروكي"
+            ]
+        },
+        {
+            "id": 77,
+            "difficulty": "medium",
+            "question": "شمعة",
+            "sample_answers": [
+                "شمعة ورا شمعة - هاني شاكر",
+                "طفي الشموع - عمرو دياب"
+            ]
+        },
+        {
+            "id": 78,
+            "difficulty": "medium",
+            "question": "مركب",
+            "sample_answers": [
+                "مركب ورق - محمد منير",
+                "يا مركبي سيري - عبد الحليم حافظ"
+            ]
+        },
+        {
+            "id": 79,
+            "difficulty": "medium",
+            "question": "شراع",
+            "sample_answers": [
+                "افرد شراعك - محمد منير",
+                "شراع الهوى - علي الحجار"
+            ]
+        },
+        {
+            "id": 80,
+            "difficulty": "medium",
+            "question": "جواب",
+            "sample_answers": [
+                "جوابات - عبد الحليم حافظ",
+                "ابعتلي جواب - صباح"
+            ]
+        },
+        {
+            "id": 81,
+            "difficulty": "medium",
+            "question": "ورقة",
+            "sample_answers": [
+                "ورقة وقلم - تامر حسني",
+                "ورقة التوت - محمد منير"
+            ]
+        },
+        {
+            "id": 82,
+            "difficulty": "medium",
+            "question": "قلم",
+            "sample_answers": [
+                "القلم والورقة - كايروكي",
+                "اكتب يا قلم - محمد رشدي"
+            ]
+        },
+        {
+            "id": 83,
+            "difficulty": "medium",
+            "question": "ساعة",
+            "sample_answers": [
+                "الساعة سبعة - محمد فوزي",
+                "كل ساعة - عمرو دياب"
+            ]
+        },
+        {
+            "id": 84,
+            "difficulty": "medium",
+            "question": "ميعاد",
+            "sample_answers": [
+                "فات الميعاد - أم كلثوم",
+                "على ميعادنا - فيروز"
+            ]
+        },
+        {
+            "id": 85,
+            "difficulty": "medium",
+            "question": "عنوان",
+            "sample_answers": [
+                "عنوان بيتنا - فيروز",
+                "توهت العنوان - عمرو دياب"
+            ]
+        },
+        {
+            "id": 86,
+            "difficulty": "medium",
+            "question": "تليفون",
+            "sample_answers": [
+                "ألو ألو إحنا هنا - شادية وفاتن حمامة",
+                "رن التليفون - محمد فؤاد"
+            ]
+        },
+        {
+            "id": 87,
+            "difficulty": "medium",
+            "question": "شاي",
+            "sample_answers": [
+                "اشرب شاي - حمادة هلال",
+                "كوباية شاي - كايروكي"
+            ]
+        },
+        {
+            "id": 88,
+            "difficulty": "medium",
+            "question": "عيش",
+            "sample_answers": [
+                "عيش وملح - محمد منير",
+                "لقمة عيش - أحمد عدوية"
+            ]
+        },
+        {
+            "id": 89,
+            "difficulty": "medium",
+            "question": "ملح",
+            "sample_answers": [
+                "ملح الأرض - محمد منير",
+                "عيش وملح - شيرين"
+            ]
+        },
+        {
+            "id": 90,
+            "difficulty": "medium",
+            "question": "شجر",
+            "sample_answers": [
+                "تحت الشجر يا وهيبة - محمد رشدي",
+                "شجر الليمون - محمد منير"
+            ]
+        },
+        {
+            "id": 91,
+            "difficulty": "medium",
+            "question": "غصن",
+            "sample_answers": [
+                "غصن البان - فريد الأطرش",
+                "على غصن الزيتون - فيروز"
+            ]
+        },
+        {
+            "id": 92,
+            "difficulty": "medium",
+            "question": "جبل",
+            "sample_answers": [
+                "يا جبل ما يهزك ريح - عاصي الحلاني",
+                "فوق الجبل - محمد منير"
+            ]
+        },
+        {
+            "id": 93,
+            "difficulty": "medium",
+            "question": "رمل",
+            "sample_answers": [
+                "على رمل البحر - عبد الحليم حافظ",
+                "رمال السنين - عمرو دياب"
+            ]
+        },
+        {
+            "id": 94,
+            "difficulty": "medium",
+            "question": "تراب",
+            "sample_answers": [
+                "ترابك يا مصر - شادية",
+                "تراب الماس - كايروكي"
+            ]
+        },
+        {
+            "id": 95,
+            "difficulty": "medium",
+            "question": "حجر",
+            "sample_answers": [
+                "قلبك حجر - جورج وسوف",
+                "ارمي الحجر - محمد منير"
+            ]
+        },
+        {
+            "id": 96,
+            "difficulty": "medium",
+            "question": "حديد",
+            "sample_answers": [
+                "الراجل الحديدي - ويجز",
+                "قضبان الحديد - محمد منير"
+            ]
+        },
+        {
+            "id": 97,
+            "difficulty": "medium",
+            "question": "إزاز",
+            "sample_answers": [
+                "بيوت إزاز - كايروكي",
+                "شباك إزاز - محمد منير"
+            ]
+        },
+        {
+            "id": 98,
+            "difficulty": "medium",
+            "question": "خشب",
+            "sample_answers": [
+                "كرسي خشب - مسار إجباري",
+                "باب الخشب - محمد منير"
+            ]
+        },
+        {
+            "id": 99,
+            "difficulty": "medium",
+            "question": "خيوط",
+            "sample_answers": [
+                "خيوط الشمس - محمد منير",
+                "خيوط العنكبوت - كايروكي"
+            ]
+        },
+        {
+            "id": 100,
+            "difficulty": "medium",
+            "question": "ظل",
+            "sample_answers": [
+                "في ظل الياسمين - كاظم الساهر",
+                "ضلي وضلك - ويجز"
+            ]
+        },
+        {
+            "id": 101,
+            "difficulty": "medium",
+            "question": "سحاب",
+            "sample_answers": [
+                "فوق السحاب - عمرو دياب",
+                "يا سحابة - محمد عبده"
+            ]
+        },
+        {
+            "id": 102,
+            "difficulty": "medium",
+            "question": "برق",
+            "sample_answers": [
+                "برق ورعد - فيروز",
+                "زي البرق - تامر حسني"
+            ]
+        },
+        {
+            "id": 103,
+            "difficulty": "medium",
+            "question": "رعد",
+            "sample_answers": [
+                "صوت الرعد - محمد منير",
+                "رعد السما - كاظم الساهر"
+            ]
+        },
+        {
+            "id": 104,
+            "difficulty": "medium",
+            "question": "ثلج",
+            "sample_answers": [
+                "تلج تلج - فيروز",
+                "قلبك تلج - إليسا"
+            ]
+        },
+        {
+            "id": 105,
+            "difficulty": "medium",
+            "question": "صيف",
+            "sample_answers": [
+                "الصيف والناس - عمرو دياب",
+                "ليالي الصيف - فيروز"
+            ]
+        },
+        {
+            "id": 106,
+            "difficulty": "medium",
+            "question": "شتا",
+            "sample_answers": [
+                "رجعت الشتوية - فيروز",
+                "شتا - محمد منير"
+            ]
+        },
+        {
+            "id": 107,
+            "difficulty": "medium",
+            "question": "ربيع",
+            "sample_answers": [
+                "الربيع - فريد الأطرش",
+                "أهلا بالربيع - فريد الأطرش"
+            ]
+        },
+        {
+            "id": 108,
+            "difficulty": "medium",
+            "question": "خريف",
+            "sample_answers": [
+                "أوراق الخريف - وردة",
+                "في الخريف - فيروز"
+            ]
+        },
+        {
+            "id": 109,
+            "difficulty": "medium",
+            "question": "فستان",
+            "sample_answers": [
+                "الفستان الأبيض - تامر حسني",
+                "فستان الفرح - نجاة الصغيرة"
+            ]
+        },
+        {
+            "id": 110,
+            "difficulty": "medium",
+            "question": "قميص",
+            "sample_answers": [
+                "قميصك الكاروهات - كايروكي",
+                "القميص الأبيض - محمد منير"
+            ]
+        },
+        {
+            "id": 111,
+            "difficulty": "medium",
+            "question": "خاتم",
+            "sample_answers": [
+                "خاتم سليمان - فيروز",
+                "خاتم في إيدك - هاني شاكر"
+            ]
+        },
+        {
+            "id": 112,
+            "difficulty": "medium",
+            "question": "سلسلة",
+            "sample_answers": [
+                "سلسلة دهب - محمد رمضان",
+                "سلسلة في رقبتك - عمرو دياب"
+            ]
+        },
+        {
+            "id": 113,
+            "difficulty": "medium",
+            "question": "كحل",
+            "sample_answers": [
+                "يا أم العيون الكحيلة - محمد رشدي",
+                "كحل العين - كاظم الساهر"
+            ]
+        },
+        {
+            "id": 114,
+            "difficulty": "medium",
+            "question": "عطر",
+            "sample_answers": [
+                "عطرك - مروان خوري",
+                "عطر الليل - ماجدة الرومي"
+            ]
+        },
+        {
+            "id": 115,
+            "difficulty": "medium",
+            "question": "حرير",
+            "sample_answers": [
+                "شباكنا ستايره حرير - شادية",
+                "ناعم يا حرير - محمد منير"
+            ]
+        },
+        {
+            "id": 116,
+            "difficulty": "medium",
+            "question": "قطن",
+            "sample_answers": [
+                "يا قطن يا أبيض - محمد قنديل",
+                "مخدة قطن - مسار إجباري"
+            ]
+        },
+        {
+            "id": 117,
+            "difficulty": "medium",
+            "question": "جنيه",
+            "sample_answers": [
+                "أبو مية جنيه - أحمد عدوية",
+                "جنيه ورا جنيه - حكيم"
+            ]
+        },
+        {
+            "id": 118,
+            "difficulty": "medium",
+            "question": "فلوس",
+            "sample_answers": [
+                "الفلوس - ويجز",
+                "معاك فلوس - عمر كمال"
+            ]
+        },
+        {
+            "id": 119,
+            "difficulty": "medium",
+            "question": "كنز",
+            "sample_answers": [
+                "أنت كنزي - تامر حسني",
+                "كنز الحبايب - محمد منير"
+            ]
+        },
+        {
+            "id": 120,
+            "difficulty": "medium",
+            "question": "قصر",
+            "sample_answers": [
+                "قصر الشوق - عبد الحليم حافظ",
+                "في قصر عالي - كاظم الساهر"
+            ]
+        },
+        {
+            "id": 121,
+            "difficulty": "medium",
+            "question": "عشة",
+            "sample_answers": [
+                "عشة فراخ - أحمد عدوية",
+                "عشة حبنا - محمد رشدي"
+            ]
+        },
+        {
+            "id": 122,
+            "difficulty": "medium",
+            "question": "سقف",
+            "sample_answers": [
+                "تحت سقف واحد - عمرو دياب",
+                "سقف - رامي جمال"
+            ]
+        },
+        {
+            "id": 123,
+            "difficulty": "medium",
+            "question": "حيطة",
+            "sample_answers": [
+                "يا حيطة - كايروكي",
+                "حيطة سد - محمد منير"
+            ]
+        },
+        {
+            "id": 124,
+            "difficulty": "medium",
+            "question": "سلم",
+            "sample_answers": [
+                "على السلم - كايروكي",
+                "سلم عليا - مصطفى قمر"
+            ]
+        },
+        {
+            "id": 125,
+            "difficulty": "medium",
+            "question": "ميدان",
+            "sample_answers": [
+                "في الميدان - كايروكي",
+                "ميدان التحرير - محمد منير"
+            ]
+        },
+        {
+            "id": 126,
+            "difficulty": "medium",
+            "question": "كوبري",
+            "sample_answers": [
+                "على كوبري قصر النيل - عبد الحليم حافظ",
+                "فوق الكوبري - مسار إجباري"
+            ]
+        },
+        {
+            "id": 127,
+            "difficulty": "medium",
+            "question": "محطة",
+            "sample_answers": [
+                "محطة الرمل - محمد منير",
+                "آخر محطة - كايروكي"
+            ]
+        },
+        {
+            "id": 128,
+            "difficulty": "medium",
+            "question": "مطار",
+            "sample_answers": [
+                "في المطار - تامر حسني",
+                "صالة المطار - شيرين"
+            ]
+        },
+        {
+            "id": 129,
+            "difficulty": "medium",
+            "question": "طيارة",
+            "sample_answers": [
+                "طيارة ورق - فيروز",
+                "راكب طيارة - ويجز"
+            ]
+        },
+        {
+            "id": 130,
+            "difficulty": "medium",
+            "question": "عربية",
+            "sample_answers": [
+                "عربية حمرا - كايروكي",
+                "سوق العربية - محمد رمضان"
+            ]
+        },
+        {
+            "id": 131,
+            "difficulty": "medium",
+            "question": "عجلة",
+            "sample_answers": [
+                "عجلة الأيام - محمد منير",
+                "راكب عجلة - حمزة نمرة"
+            ]
+        },
+        {
+            "id": 132,
+            "difficulty": "medium",
+            "question": "حصان",
+            "sample_answers": [
+                "يا حصاني - محمد رشدي",
+                "فارس على حصان - كاظم الساهر"
+            ]
+        },
+        {
+            "id": 133,
+            "difficulty": "medium",
+            "question": "حمام",
+            "sample_answers": [
+                "يا حمام البر - محمد قنديل",
+                "حمام السلام - فيروز"
+            ]
+        },
+        {
+            "id": 134,
+            "difficulty": "medium",
+            "question": "نحلة",
+            "sample_answers": [
+                "يا نحلة لا تقرصيني - صباح",
+                "زي النحلة - محمد فوزي"
+            ]
+        },
+        {
+            "id": 135,
+            "difficulty": "medium",
+            "question": "فراشة",
+            "sample_answers": [
+                "يا فراشة - محمد فوزي",
+                "زي الفراشة - عمرو دياب"
+            ]
+        },
+        {
+            "id": 136,
+            "difficulty": "medium",
+            "question": "سمك",
+            "sample_answers": [
+                "سمك لبن تمر هندي - محمود عبد العزيز",
+                "زي السمك في المية - محمد منير"
+            ]
+        },
+        {
+            "id": 137,
+            "difficulty": "medium",
+            "question": "تفاح",
+            "sample_answers": [
+                "يا تفاح - محمد منير",
+                "خدودك تفاح - فريد الأطرش"
+            ]
+        },
+        {
+            "id": 138,
+            "difficulty": "medium",
+            "question": "رمان",
+            "sample_answers": [
+                "يا رمان - محمد رشدي",
+                "شجر الرمان - فيروز"
+            ]
+        },
+        {
+            "id": 139,
+            "difficulty": "medium",
+            "question": "عنب",
+            "sample_answers": [
+                "عنب في بستان - فيروز",
+                "سوق العنب - محمد قنديل"
+            ]
+        },
+        {
+            "id": 140,
+            "difficulty": "medium",
+            "question": "نعناع",
+            "sample_answers": [
+                "النعناع الجنينة - محمد منير",
+                "شاي بالنعناع - أحمد عدوية"
+            ]
+        },
+        {
+            "id": 141,
+            "difficulty": "medium",
+            "question": "ياسمين",
+            "sample_answers": [
+                "طوق الياسمين - كاظم الساهر",
+                "يا ياسمين - محمد منير"
+            ]
+        },
+        {
+            "id": 142,
+            "difficulty": "medium",
+            "question": "فل",
+            "sample_answers": [
+                "يا فل وياسمين - شادية",
+                "صباح الفل - محمد فوزي"
+            ]
+        },
+        {
+            "id": 143,
+            "difficulty": "medium",
+            "question": "كمانجة",
+            "sample_answers": [
+                "صوت الكمانجة - محمد منير",
+                "اعزف كمانجة - عمرو دياب"
+            ]
+        },
+        {
+            "id": 144,
+            "difficulty": "medium",
+            "question": "عود",
+            "sample_answers": [
+                "يا عود - فريد الأطرش",
+                "تقاسيم عود - محمد عبد الوهاب"
+            ]
+        },
+        {
+            "id": 145,
+            "difficulty": "medium",
+            "question": "طبلة",
+            "sample_answers": [
+                "دق الطبلة - حكيم",
+                "على الطبلة والمزمار - محمد رشدي"
+            ]
+        },
+        {
+            "id": 146,
+            "difficulty": "medium",
+            "question": "جيتار",
+            "sample_answers": [
+                "جيتار وناي - عمرو دياب",
+                "اعزف جيتار - كايروكي"
+            ]
+        },
+        {
+            "id": 147,
+            "difficulty": "medium",
+            "question": "مسرح",
+            "sample_answers": [
+                "على المسرح - كايروكي",
+                "مسرح الحياة - محمد منير"
+            ]
+        },
+        {
+            "id": 148,
+            "difficulty": "medium",
+            "question": "سينما",
+            "sample_answers": [
+                "سيما أونطة - أحمد مكي",
+                "في السينما - مسار إجباري"
+            ]
+        },
+        {
+            "id": 149,
+            "difficulty": "medium",
+            "question": "كتاب",
+            "sample_answers": [
+                "كتاب حياتي يا عين - حسن الأسمر",
+                "اقرا الكتاب - محمد منير"
+            ]
+        },
+        {
+            "id": 150,
+            "difficulty": "medium",
+            "question": "مدرسة",
+            "sample_answers": [
+                "المدرسة - كاظم الساهر",
+                "أيام المدرسة - تامر حسني"
+            ]
+        },
+        {
+            "id": 151,
+            "difficulty": "hard",
+            "question": "عصفور",
+            "sample_answers": [
+                "عصفور طل من الشباك - أميمة الخليل",
+                "عصفورين - فيروز"
+            ]
+        },
+        {
+            "id": 152,
+            "difficulty": "hard",
+            "question": "تذكرة",
+            "sample_answers": [
+                "تذكرة سفر - محمد منير",
+                "معايا تذكرة - كايروكي"
+            ]
+        },
+        {
+            "id": 153,
+            "difficulty": "hard",
+            "question": "سيجارة",
+            "sample_answers": [
+                "سيجارة وكاس - محمد عبد الوهاب",
+                "ولع سيجارة - ويجز"
+            ]
+        },
+        {
+            "id": 154,
+            "difficulty": "hard",
+            "question": "مفتاح",
+            "sample_answers": [
+                "مفتاح قلبي - عبد الحليم حافظ",
+                "ضاع المفتاح - كايروكي"
+            ]
+        },
+        {
+            "id": 155,
+            "difficulty": "hard",
+            "question": "خريطة",
+            "sample_answers": [
+                "خريطة العالم - كايروكي",
+                "على الخريطة - محمد منير"
+            ]
+        },
+        {
+            "id": 156,
+            "difficulty": "hard",
+            "question": "بوصلة",
+            "sample_answers": [
+                "البوصلة ضاعت - كايروكي",
+                "بوصلة قلبي - مسار إجباري"
+            ]
+        },
+        {
+            "id": 157,
+            "difficulty": "hard",
+            "question": "مظلة",
+            "sample_answers": [
+                "تحت المظلة - فيروز",
+                "مظلة في المطر - كاظم الساهر"
+            ]
+        },
+        {
+            "id": 158,
+            "difficulty": "hard",
+            "question": "شنطة",
+            "sample_answers": [
+                "شنطة سفر - أنغام",
+                "لميت شنطتي - شيرين"
+            ]
+        },
+        {
+            "id": 159,
+            "difficulty": "hard",
+            "question": "باسبور",
+            "sample_answers": [
+                "ختم الباسبور - ويجز",
+                "باسبور السفر - حمزة نمرة"
+            ]
+        },
+        {
+            "id": 160,
+            "difficulty": "hard",
+            "question": "راديو",
+            "sample_answers": [
+                "في الراديو - مسار إجباري",
+                "صوت الراديو القديم - فيروز"
+            ]
+        },
+        {
+            "id": 161,
+            "difficulty": "hard",
+            "question": "كاسيت",
+            "sample_answers": [
+                "شريط كاسيت - كايروكي",
+                "الكاسيت القديم - محمد منير"
+            ]
+        },
+        {
+            "id": 162,
+            "difficulty": "hard",
+            "question": "جورنال",
+            "sample_answers": [
+                "اقرا الجورنال - كايروكي",
+                "ورق الجرايد - محمد منير"
+            ]
+        },
+        {
+            "id": 163,
+            "difficulty": "hard",
+            "question": "مقص",
+            "sample_answers": [
+                "مقص الرقيب - كايروكي",
+                "قص بالمقص - ويجز"
+            ]
+        },
+        {
+            "id": 164,
+            "difficulty": "hard",
+            "question": "إبرة",
+            "sample_answers": [
+                "إبرة وخيط - محمد منير",
+                "زي الإبرة في كوم قش - أحمد مكي"
+            ]
+        },
+        {
+            "id": 165,
+            "difficulty": "hard",
+            "question": "زرار",
+            "sample_answers": [
+                "زرار القميص - كايروكي",
+                "فك الزرار - عمرو دياب"
+            ]
+        },
+        {
+            "id": 166,
+            "difficulty": "hard",
+            "question": "مخدة",
+            "sample_answers": [
+                "دموعي على المخدة - شيرين",
+                "حط راسك على المخدة - محمد منير"
+            ]
+        },
+        {
+            "id": 167,
+            "difficulty": "hard",
+            "question": "بطانية",
+            "sample_answers": [
+                "تحت البطانية - مسار إجباري",
+                "بطانية في البرد - كايروكي"
+            ]
+        },
+        {
+            "id": 168,
+            "difficulty": "hard",
+            "question": "فانوس",
+            "sample_answers": [
+                "وحوي يا وحوي - أحمد عبد القادر",
+                "فانوس رمضان - محمد فوزي"
+            ]
+        },
+        {
+            "id": 169,
+            "difficulty": "hard",
+            "question": "قنديل",
+            "sample_answers": [
+                "قنديل البحر - فيروز",
+                "نور القنديل - محمد قنديل"
+            ]
+        },
+        {
+            "id": 170,
+            "difficulty": "hard",
+            "question": "فنجان",
+            "sample_answers": [
+                "قارئة الفنجان - عبد الحليم حافظ",
+                "فنجان قهوة - فيروز"
+            ]
+        },
+        {
+            "id": 171,
+            "difficulty": "hard",
+            "question": "كوباية",
+            "sample_answers": [
+                "كوباية مية - حمزة نمرة",
+                "كوباية شاي - كايروكي"
+            ]
+        },
+        {
+            "id": 172,
+            "difficulty": "hard",
+            "question": "طبق",
+            "sample_answers": [
+                "طبق فول - أحمد عدوية",
+                "على طبق من فضة - كاظم الساهر"
+            ]
+        },
+        {
+            "id": 173,
+            "difficulty": "hard",
+            "question": "سكينة",
+            "sample_answers": [
+                "سكينة في قلبي - جورج وسوف",
+                "زي السكينة - ويجز"
+            ]
+        },
+        {
+            "id": 174,
+            "difficulty": "hard",
+            "question": "ملحمة",
+            "sample_answers": [
+                "ملحمة حب - محمد منير",
+                "دي ملحمة - ويجز"
+            ]
+        },
+        {
+            "id": 175,
+            "difficulty": "hard",
+            "question": "تمثال",
+            "sample_answers": [
+                "تمثال من حجر - عبد الحليم حافظ",
+                "زي التمثال - كايروكي"
+            ]
+        },
+        {
+            "id": 176,
+            "difficulty": "hard",
+            "question": "لوحة",
+            "sample_answers": [
+                "لوحة فنية - عمرو دياب",
+                "رسمت لوحة - كاظم الساهر"
+            ]
+        },
+        {
+            "id": 177,
+            "difficulty": "hard",
+            "question": "فرشة",
+            "sample_answers": [
+                "فرشة وألوان - محمد منير",
+                "ارسم بالفرشة - كايروكي"
+            ]
+        },
+        {
+            "id": 178,
+            "difficulty": "hard",
+            "question": "قناع",
+            "sample_answers": [
+                "شيل القناع - كايروكي",
+                "وراء القناع - ويجز"
+            ]
+        },
+        {
+            "id": 179,
+            "difficulty": "hard",
+            "question": "سجن",
+            "sample_answers": [
+                "سجن الليل - محمد منير",
+                "وراء القضبان - كايروكي"
+            ]
+        },
+        {
+            "id": 180,
+            "difficulty": "hard",
+            "question": "قيد",
+            "sample_answers": [
+                "اكسر القيد - محمد منير",
+                "قيد الحديد - أم كلثوم"
+            ]
+        },
+        {
+            "id": 181,
+            "difficulty": "hard",
+            "question": "ميزان",
+            "sample_answers": [
+                "ميزان العدل - محمد منير",
+                "في الميزان - ويجز"
+            ]
+        },
+        {
+            "id": 182,
+            "difficulty": "hard",
+            "question": "تاج",
+            "sample_answers": [
+                "تاج على راسي - تامر حسني",
+                "تاج الملوك - محمد رمضان"
+            ]
+        },
+        {
+            "id": 183,
+            "difficulty": "hard",
+            "question": "عرش",
+            "sample_answers": [
+                "عرش قلبي - كاظم الساهر",
+                "على العرش - محمد رمضان"
+            ]
+        },
+        {
+            "id": 184,
+            "difficulty": "hard",
+            "question": "سيف",
+            "sample_answers": [
+                "سيف العشق - كاظم الساهر",
+                "حد السيف - محمد منير"
+            ]
+        },
+        {
+            "id": 185,
+            "difficulty": "hard",
+            "question": "درع",
+            "sample_answers": [
+                "درع وسيف - محمد منير",
+                "أنت درعي - أصالة"
+            ]
+        },
+        {
+            "id": 186,
+            "difficulty": "hard",
+            "question": "قلعة",
+            "sample_answers": [
+                "قلعة صلاح الدين - محمد قنديل",
+                "في قلعتي - ويجز"
+            ]
+        },
+        {
+            "id": 187,
+            "difficulty": "hard",
+            "question": "برج",
+            "sample_answers": [
+                "برج الحوت - عمرو دياب",
+                "فوق البرج - كايروكي"
+            ]
+        },
+        {
+            "id": 188,
+            "difficulty": "hard",
+            "question": "نفق",
+            "sample_answers": [
+                "آخر النفق - كايروكي",
+                "في النفق المظلم - مسار إجباري"
+            ]
+        },
+        {
+            "id": 189,
+            "difficulty": "hard",
+            "question": "جزيرة",
+            "sample_answers": [
+                "جزيرة بعيدة - عمرو دياب",
+                "في جزيرة لوحدنا - محمد منير"
+            ]
+        },
+        {
+            "id": 190,
+            "difficulty": "hard",
+            "question": "صحرا",
+            "sample_answers": [
+                "في الصحرا - محمد منير",
+                "صحرا جردا - كايروكي"
+            ]
+        },
+        {
+            "id": 191,
+            "difficulty": "hard",
+            "question": "واحة",
+            "sample_answers": [
+                "واحة أمان - محمد منير",
+                "في الواحة - عمرو دياب"
+            ]
+        },
+        {
+            "id": 192,
+            "difficulty": "hard",
+            "question": "نخلة",
+            "sample_answers": [
+                "نخلة عالية - محمد منير",
+                "تحت النخلة - محمد رشدي"
+            ]
+        },
+        {
+            "id": 193,
+            "difficulty": "hard",
+            "question": "صبار",
+            "sample_answers": [
+                "شوك الصبار - محمد منير",
+                "زي الصبار - كايروكي"
+            ]
+        },
+        {
+            "id": 194,
+            "difficulty": "hard",
+            "question": "عنكبوت",
+            "sample_answers": [
+                "بيت العنكبوت - كايروكي",
+                "خيوط العنكبوت - ويجز"
+            ]
+        },
+        {
+            "id": 195,
+            "difficulty": "hard",
+            "question": "غراب",
+            "sample_answers": [
+                "غراب البين - محمد رشدي",
+                "صوت الغراب - كايروكي"
+            ]
+        },
+        {
+            "id": 196,
+            "difficulty": "hard",
+            "question": "نمر",
+            "sample_answers": [
+                "زي النمر - محمد رمضان",
+                "عين النمر - ويجز"
+            ]
+        },
+        {
+            "id": 197,
+            "difficulty": "hard",
+            "question": "أسد",
+            "sample_answers": [
+                "أنا الأسد - محمد رمضان",
+                "قلب الأسد - أحمد مكي"
+            ]
+        },
+        {
+            "id": 198,
+            "difficulty": "hard",
+            "question": "ذئب",
+            "sample_answers": [
+                "عواء الذيب - محمد منير",
+                "وسط الديابة - ويجز"
+            ]
+        },
+        {
+            "id": 199,
+            "difficulty": "hard",
+            "question": "جرس",
+            "sample_answers": [
+                "دق الجرس - فيروز",
+                "جرس الإنذار - كايروكي"
+            ]
+        },
+        {
+            "id": 200,
+            "difficulty": "hard",
+            "question": "صفارة",
+            "sample_answers": [
+                "صفارة القطر - محمد منير",
+                "اسمع الصفارة - ويجز"
+            ]
+        }
+    ]
+}

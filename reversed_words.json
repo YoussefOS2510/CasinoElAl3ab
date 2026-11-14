@@ -1,0 +1,1405 @@
+{
+  "category": "الكلمات المعكوسة",
+  "items": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "ح ر س م",
+      "answer": "مسرح",
+      "hint": "مكان للعروض الفنية والمسرحيات"
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "ة س ر د م",
+      "answer": "مدرسة",
+      "hint": "مكان للتعليم والدراسة"
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "ك ا ب ش",
+      "answer": "شباك",
+      "hint": "فتحة في الحيطة للتهوية والنور"
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "ي ر ش ك",
+      "answer": "كشري",
+      "hint": "أكلة مصرية شعبية مشهورة بالدقة"
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "ة و ه ق",
+      "answer": "قهوة",
+      "hint": "مشروب صباحي أو مكان قعدة الصحاب"
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "س و ن ا ف",
+      "answer": "فانوس",
+      "hint": "زينة رمضان الأساسية"
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "ة ي م ع ط",
+      "answer": "طعمية",
+      "hint": "فطار مصري أصيل جنب الفول"
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "ح ا ت ف م",
+      "answer": "مفتاح",
+      "hint": "بتفتح بيه الباب أو القفل"
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "ن و ف ي ل ت",
+      "answer": "تليفون",
+      "hint": "جهاز للمكالمات والرسايل"
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "ة ي ب ر ع",
+      "answer": "عربية",
+      "hint": "وسيلة مواصلات خاصة بتركبها"
+    },
+    {
+      "id": 11,
+      "difficulty": "easy",
+      "question": "ة ح و ر م",
+      "answer": "مروحة",
+      "hint": "بتجيب هوا في الصيف"
+    },
+    {
+      "id": 12,
+      "difficulty": "easy",
+      "question": "ة ج ا ل ث",
+      "answer": "ثلاجة",
+      "hint": "بتحفظ الأكل ساقع"
+    },
+    {
+      "id": 13,
+      "difficulty": "easy",
+      "question": "ة د ا ج س",
+      "answer": "سجادة",
+      "hint": "بتتفرش على الأرض في البيت"
+    },
+    {
+      "id": 14,
+      "difficulty": "easy",
+      "question": "ة د خ م",
+      "answer": "مخدة",
+      "hint": "بتحط راسك عليها وانت نايم"
+    },
+    {
+      "id": 15,
+      "difficulty": "easy",
+      "question": "ة ي ن ا ط ب",
+      "answer": "بطانية",
+      "hint": "بتتغطى بيها في البرد"
+    },
+    {
+      "id": 16,
+      "difficulty": "easy",
+      "question": "ة ط ن ش",
+      "answer": "شنطة",
+      "hint": "بتشيل فيها حاجتك وانت خارج"
+    },
+    {
+      "id": 17,
+      "difficulty": "easy",
+      "question": "ة ر ا ظ ن",
+      "answer": "نظارة",
+      "hint": "بتتلبس على العين للنظر أو الشمس"
+    },
+    {
+      "id": 18,
+      "difficulty": "easy",
+      "question": "ة ع ا س",
+      "answer": "ساعة",
+      "hint": "بتعرف منها الوقت في إيدك أو الحيطة"
+    },
+    {
+      "id": 19,
+      "difficulty": "easy",
+      "question": "ة ي ا ب و ك",
+      "answer": "كوباية",
+      "hint": "بتشرب فيها المية أو الشاي"
+    },
+    {
+      "id": 20,
+      "difficulty": "easy",
+      "question": "ة ق ل ع م",
+      "answer": "معلقة",
+      "hint": "بتاكل بيها الرز والشوربة"
+    },
+    {
+      "id": 21,
+      "difficulty": "easy",
+      "question": "ة ك و ش",
+      "answer": "شوكة",
+      "hint": "بتاكل بيها المكرونة واللحمة"
+    },
+    {
+      "id": 22,
+      "difficulty": "easy",
+      "question": "ة ن ي ك س",
+      "answer": "سكينة",
+      "hint": "بتقطع بيها الأكل والخضار"
+    },
+    {
+      "id": 23,
+      "difficulty": "easy",
+      "question": "ة ي ن ي ص",
+      "answer": "صينية",
+      "hint": "بتقدم عليها الشاي أو بتدخل الفرن"
+    },
+    {
+      "id": 24,
+      "difficulty": "easy",
+      "question": "ة ن و ك ل ب",
+      "answer": "بلكونة",
+      "hint": "مكان في الشقة بيطل على الشارع"
+    },
+    {
+      "id": 25,
+      "difficulty": "easy",
+      "question": "ر ي س ن ا س أ",
+      "answer": "أسانسير",
+      "hint": "بيطلعك وينزلك الأدوار العالية"
+    },
+    {
+      "id": 26,
+      "difficulty": "easy",
+      "question": "ع ر ا ش",
+      "answer": "شارع",
+      "hint": "طريق بتمشي فيه الناس والعربيات"
+    },
+    {
+      "id": 27,
+      "difficulty": "easy",
+      "question": "ي ر ب و ك",
+      "answer": "كوبري",
+      "hint": "بيربط بين ضفتين أو فوق زحمة المرور"
+    },
+    {
+      "id": 28,
+      "difficulty": "easy",
+      "question": "ة ط ح م",
+      "answer": "محطة",
+      "hint": "مكان بيقف فيه القطر أو المترو"
+    },
+    {
+      "id": 29,
+      "difficulty": "easy",
+      "question": "ا م ن ي س",
+      "answer": "سينما",
+      "hint": "مكان بتتفرج فيه على الأفلام الجديدة"
+    },
+    {
+      "id": 30,
+      "difficulty": "easy",
+      "question": "ب ع ل م",
+      "answer": "ملعب",
+      "hint": "مكان بيتلعب فيه الكورة"
+    },
+    {
+      "id": 31,
+      "difficulty": "easy",
+      "question": "ر و ه م ج",
+      "answer": "جمهور",
+      "hint": "الناس اللي بتشجع في الاستاد أو المسرح"
+    },
+    {
+      "id": 32,
+      "difficulty": "easy",
+      "question": "ن ا ن ف",
+      "answer": "فنان",
+      "hint": "شخص بيمثل أو بيغني أو بيرسم"
+    },
+    {
+      "id": 33,
+      "difficulty": "easy",
+      "question": "ب ر ط م",
+      "answer": "مطرب",
+      "hint": "مغني صوته حلو"
+    },
+    {
+      "id": 34,
+      "difficulty": "easy",
+      "question": "ع ي ذ م",
+      "answer": "مذيع",
+      "hint": "بيقدم برامج في التليفزيون أو الراديو"
+    },
+    {
+      "id": 35,
+      "difficulty": "easy",
+      "question": "ي ف ح ص",
+      "answer": "صحفي",
+      "hint": "بيكتب أخبار ومقالات في الجرنال"
+    },
+    {
+      "id": 36,
+      "difficulty": "easy",
+      "question": "ر و ت ك د",
+      "answer": "دكتور",
+      "hint": "بيعالج المرضى في العيادة"
+    },
+    {
+      "id": 37,
+      "difficulty": "easy",
+      "question": "س د ن ه م",
+      "answer": "مهندس",
+      "hint": "بيبني عمارات أو بيصمم أجهزة"
+    },
+    {
+      "id": 38,
+      "difficulty": "easy",
+      "question": "ي م ا ح م",
+      "answer": "محامي",
+      "hint": "بيدافع عن الناس في المحكمة"
+    },
+    {
+      "id": 39,
+      "difficulty": "easy",
+      "question": "ط ب ا ظ",
+      "answer": "ظابط",
+      "hint": "مسؤول عن الأمن والنظام"
+    },
+    {
+      "id": 40,
+      "difficulty": "easy",
+      "question": "ي د ن ج",
+      "answer": "جندي",
+      "hint": "بيحمي حدود الوطن"
+    },
+    {
+      "id": 41,
+      "difficulty": "easy",
+      "question": "ح ا ل ف",
+      "answer": "فلاح",
+      "hint": "بيزرع الأرض في الريف"
+    },
+    {
+      "id": 42,
+      "difficulty": "easy",
+      "question": "د ا ي ص",
+      "answer": "صياد",
+      "hint": "بيصطاد السمك من البحر أو النيل"
+    },
+    {
+      "id": 43,
+      "difficulty": "easy",
+      "question": "ر ا ج ن",
+      "answer": "نجار",
+      "hint": "بيصنع الأثاث من الخشب"
+    },
+    {
+      "id": 44,
+      "difficulty": "easy",
+      "question": "د ا د ح",
+      "answer": "حداد",
+      "hint": "بيشكل الحديد وبيعمل بوابات"
+    },
+    {
+      "id": 45,
+      "difficulty": "easy",
+      "question": "ك ا ب س",
+      "answer": "سباك",
+      "hint": "بيصلح مواسير المية والحنفيات"
+    },
+    {
+      "id": 46,
+      "difficulty": "easy",
+      "question": "ي ئ ا ب ر ه ك",
+      "answer": "كهربائي",
+      "hint": "بيصلح الأسلاك واللمض"
+    },
+    {
+      "id": 47,
+      "difficulty": "easy",
+      "question": "ي ك ي ن ا ك ي م",
+      "answer": "ميكانيكي",
+      "hint": "بيصلح الأعطال في العربيات"
+    },
+    {
+      "id": 48,
+      "difficulty": "easy",
+      "question": "ق ا ل ح",
+      "answer": "حلاق",
+      "hint": "بيقص الشعر ويظبط الدقن"
+    },
+    {
+      "id": 49,
+      "difficulty": "easy",
+      "question": "ط ا ي خ",
+      "answer": "خياط",
+      "hint": "بيفصل الهدوم ويصلحها"
+    },
+    {
+      "id": 50,
+      "difficulty": "easy",
+      "question": "ر ا ز ج",
+      "answer": "جزار",
+      "hint": "بيبيع اللحمة البلدي"
+    },
+    {
+      "id": 51,
+      "difficulty": "easy",
+      "question": "ل ا ق ب",
+      "answer": "بقال",
+      "hint": "بيبيع الجبنة والعيش وحاجات البيت"
+    },
+    {
+      "id": 52,
+      "difficulty": "easy",
+      "question": "ي ن ا ه ك ف",
+      "answer": "فكهاني",
+      "hint": "بيبيع الموز والتفاح والمانجا"
+    },
+    {
+      "id": 53,
+      "difficulty": "easy",
+      "question": "ي ر ض خ",
+      "answer": "خضري",
+      "hint": "بيبيع الطماطم والبطاطس"
+    },
+    {
+      "id": 54,
+      "difficulty": "easy",
+      "question": "ي ن ا و ل ح",
+      "answer": "حلواني",
+      "hint": "بيعمل التورتة والبسبوسة والكنافة"
+    },
+    {
+      "id": 55,
+      "difficulty": "easy",
+      "question": "ر ا ط ع",
+      "answer": "عطار",
+      "hint": "بيبيع التوابل والأعشاب"
+    },
+    {
+      "id": 56,
+      "difficulty": "easy",
+      "question": "ة ب ت ك م",
+      "answer": "مكتبة",
+      "hint": "مكان لبيع الكتب والأدوات المدرسية"
+    },
+    {
+      "id": 57,
+      "difficulty": "easy",
+      "question": "ة ي ل د ي ص",
+      "answer": "صيدلية",
+      "hint": "مكان بتشتري منه الدوا"
+    },
+    {
+      "id": 58,
+      "difficulty": "easy",
+      "question": "ز ب خ م",
+      "answer": "مخبز",
+      "hint": "فرن بيعمل العيش البلدي والفينو"
+    },
+    {
+      "id": 59,
+      "difficulty": "easy",
+      "question": "م ع ط م",
+      "answer": "مطعم",
+      "hint": "مكان بتروح تاكل فيه بره البيت"
+    },
+    {
+      "id": 60,
+      "difficulty": "easy",
+      "question": "ه ي ف ا ك",
+      "answer": "كافيه",
+      "hint": "مكان شيك بتشرب فيه قهوة وعصاير"
+    },
+    {
+      "id": 61,
+      "difficulty": "easy",
+      "question": "ق د ن ف",
+      "answer": "فندق",
+      "hint": "مكان بينزل فيه السياح والمسافرين"
+    },
+    {
+      "id": 62,
+      "difficulty": "easy",
+      "question": "ر ا ط م",
+      "answer": "مطار",
+      "hint": "مكان بتسافر منه بالطيارة"
+    },
+    {
+      "id": 63,
+      "difficulty": "easy",
+      "question": "ر ا ط ق",
+      "answer": "قطار",
+      "hint": "مواصلة سريعة بتمشي على قضبان"
+    },
+    {
+      "id": 64,
+      "difficulty": "easy",
+      "question": "و ر ت م",
+      "answer": "مترو",
+      "hint": "قطر سريع بيمشي تحت الأرض في القاهرة"
+    },
+    {
+      "id": 65,
+      "difficulty": "easy",
+      "question": "س ي ب و ت أ",
+      "answer": "أتوبيس",
+      "hint": "عربية كبيرة بتشيل ركاب كتير"
+    },
+    {
+      "id": 66,
+      "difficulty": "easy",
+      "question": "ي س ك ا ت",
+      "answer": "تاكسي",
+      "hint": "عربية أجرة بتوصلك مشوارك"
+    },
+    {
+      "id": 67,
+      "difficulty": "easy",
+      "question": "ل ك ي س و ت و م",
+      "answer": "موتوسيكل",
+      "hint": "عجلة بموتور سريعة في الزحمة"
+    },
+    {
+      "id": 68,
+      "difficulty": "easy",
+      "question": "ة ل ج ع",
+      "answer": "عجلة",
+      "hint": "وسيلة مواصلات ببدالين من غير بنزين"
+    },
+    {
+      "id": 69,
+      "difficulty": "easy",
+      "question": "ب ك ر م",
+      "answer": "مركب",
+      "hint": "بتمشي في النيل أو البحر"
+    },
+    {
+      "id": 70,
+      "difficulty": "easy",
+      "question": "ة ر ا ي ط",
+      "answer": "طيارة",
+      "hint": "بتطير في السما وتسافر بلاد بعيدة"
+    },
+    {
+      "id": 71,
+      "difficulty": "medium",
+      "question": "ى ف ش ت س م",
+      "answer": "مستشفى",
+      "hint": "مكان كبير لعلاج المرضى والعمليات"
+    },
+    {
+      "id": 72,
+      "difficulty": "medium",
+      "question": "ة ي ر د ن ك س ا",
+      "answer": "اسكندرية",
+      "hint": "عروس البحر المتوسط في مصر"
+    },
+    {
+      "id": 73,
+      "difficulty": "medium",
+      "question": "د ي ع س ر و ب",
+      "answer": "بورسعيد",
+      "hint": "مدينة باسلة على قناة السويس"
+    },
+    {
+      "id": 74,
+      "difficulty": "medium",
+      "question": "ة ي ل ي ع ا م س ا",
+      "answer": "اسماعيلية",
+      "hint": "مدينة المانجا والهدوء على القناة"
+    },
+    {
+      "id": 75,
+      "difficulty": "medium",
+      "question": "ة ر و ص ن م",
+      "answer": "منصورة",
+      "hint": "عاصمة الدقهلية ومدينة الطب"
+    },
+    {
+      "id": 76,
+      "difficulty": "medium",
+      "question": "ق ي ز ا ق ز",
+      "answer": "زقازيق",
+      "hint": "عاصمة محافظة الشرقية"
+    },
+    {
+      "id": 77,
+      "difficulty": "medium",
+      "question": "ر و ه ن م د",
+      "answer": "دمنهور",
+      "hint": "عاصمة محافظة البحيرة"
+    },
+    {
+      "id": 78,
+      "difficulty": "medium",
+      "question": "ن ا و س ا",
+      "answer": "اسوان",
+      "hint": "مدينة السد العالي والشتا الدافي"
+    },
+    {
+      "id": 79,
+      "difficulty": "medium",
+      "question": "ر ص ق ا ل ا",
+      "answer": "الاقصر",
+      "hint": "مدينة المعابد وتلت آثار العالم"
+    },
+    {
+      "id": 80,
+      "difficulty": "medium",
+      "question": "ة ق د ر غ ل ا",
+      "answer": "الغردقة",
+      "hint": "مدينة سياحية مشهورة على البحر الأحمر"
+    },
+    {
+      "id": 81,
+      "difficulty": "medium",
+      "question": "خ ي ش ل ا   م ر ش",
+      "answer": "شرم الشيخ",
+      "hint": "مدينة السلام والغوص في سينا"
+    },
+    {
+      "id": 82,
+      "difficulty": "medium",
+      "question": "ح و ر ط م   ى س ر م",
+      "answer": "مرسى مطروح",
+      "hint": "مصيف مشهور بشواطئه الفيروزية"
+    },
+    {
+      "id": 83,
+      "difficulty": "medium",
+      "question": "ي ل ا م ش ل ا   ل ح ا س ل ا",
+      "answer": "الساحل الشمالي",
+      "hint": "وجهة المصيفين في الصيف"
+    },
+    {
+      "id": 84,
+      "difficulty": "medium",
+      "question": "ة ن خ س ل ا   ن ي ع ل ا",
+      "answer": "العين السخنة",
+      "hint": "أقرب مصيف للقاهرة على البحر الأحمر"
+    },
+    {
+      "id": 85,
+      "difficulty": "medium",
+      "question": "ك ل ا م ز ل ا",
+      "answer": "الزمالك",
+      "hint": "حي راقي في جزيرة وسط النيل"
+    },
+    {
+      "id": 86,
+      "difficulty": "medium",
+      "question": "ي د ا ع م ل ا",
+      "answer": "المعادي",
+      "hint": "حي هادي ومليان شجر في القاهرة"
+    },
+    {
+      "id": 87,
+      "difficulty": "medium",
+      "question": "ة د ي د ج ل ا   ر ص م",
+      "answer": "مصر الجديدة",
+      "hint": "حي عريق بقصوره ومترو الأنفاق"
+    },
+    {
+      "id": 88,
+      "difficulty": "medium",
+      "question": "ر ص ن   ة ن ي د م",
+      "answer": "مدينة نصر",
+      "hint": "حي كبير وفيه استاد القاهرة"
+    },
+    {
+      "id": 89,
+      "difficulty": "medium",
+      "question": "ن ي س د ن ه م ل ا",
+      "answer": "المهندسين",
+      "hint": "حي حيوي في الجيزة مليان محلات"
+    },
+    {
+      "id": 90,
+      "difficulty": "medium",
+      "question": "ي ق د ل ا",
+      "answer": "الدقي",
+      "hint": "حي في الجيزة بيربطها بالقاهرة"
+    },
+    {
+      "id": 91,
+      "difficulty": "medium",
+      "question": "م ر ه ل ا",
+      "answer": "الهرم",
+      "hint": "شارع مشهور بيوصل لأهرامات الجيزة"
+    },
+    {
+      "id": 92,
+      "difficulty": "medium",
+      "question": "ا ر ب ش",
+      "answer": "شبرا",
+      "hint": "من أكبر وأعرق أحياء القاهرة"
+    },
+    {
+      "id": 93,
+      "difficulty": "medium",
+      "question": "ن ي س ح ل ا",
+      "answer": "الحسين",
+      "hint": "حي شعبي أثري جنب خان الخليلي"
+    },
+    {
+      "id": 94,
+      "difficulty": "medium",
+      "question": "ي ل ي ل خ ل ا   ن ا خ",
+      "answer": "خان الخليلي",
+      "hint": "سوق سياحي قديم للتحف والهدايا"
+    },
+    {
+      "id": 95,
+      "difficulty": "medium",
+      "question": "ة ع ل ق ل ا",
+      "answer": "القلعة",
+      "hint": "حصن صلاح الدين الأيوبي في القاهرة"
+    },
+    {
+      "id": 96,
+      "difficulty": "medium",
+      "question": "ة ر ه ا ق ل ا   ج ر ب",
+      "answer": "برج القاهرة",
+      "hint": "أعلى برج سياحي في الجزيرة"
+    },
+    {
+      "id": 97,
+      "difficulty": "medium",
+      "question": "ي ر ص م ل ا   ف ح ت م ل ا",
+      "answer": "المتحف المصري",
+      "hint": "مبنى في التحرير بيضم كنوز الفراعنة"
+    },
+    {
+      "id": 98,
+      "difficulty": "medium",
+      "question": "ة ي ر د ن ك س ا   ة ب ت ك م",
+      "answer": "مكتبة اسكندرية",
+      "hint": "صرح ثقافي عالمي على كورنيش البحر"
+    },
+    {
+      "id": 99,
+      "difficulty": "medium",
+      "question": "س ي و س ل ا   ة ا ن ق",
+      "answer": "قناة السويس",
+      "hint": "أهم ممر ملاحي بيربط البحرين"
+    },
+    {
+      "id": 100,
+      "difficulty": "medium",
+      "question": "ي ل ا ع ل ا   د س ل ا",
+      "answer": "السد العالي",
+      "hint": "مشروع هندسي عملاق بيحمي مصر من الفيضان"
+    },
+    {
+      "id": 101,
+      "difficulty": "medium",
+      "question": "ت ا م ا ر ه ا ل ا",
+      "answer": "الاهرامات",
+      "hint": "عجيبة من عجائب الدنيا السبع في الجيزة"
+    },
+    {
+      "id": 102,
+      "difficulty": "medium",
+      "question": "ل و ه ل ا   و ب ا",
+      "answer": "ابو الهول",
+      "hint": "تمثال أسطوري بجسم أسد وراس إنسان"
+    },
+    {
+      "id": 103,
+      "difficulty": "medium",
+      "question": "ة ي خ و ل م",
+      "answer": "ملوخية",
+      "hint": "أكلة خضرا مصرية مشهورة بالطشة"
+    },
+    {
+      "id": 104,
+      "difficulty": "medium",
+      "question": "ة ع ق س م",
+      "answer": "مسقعة",
+      "hint": "أكلة بتتعمل بالبتنجان والصلصة واللحمة"
+    },
+    {
+      "id": 105,
+      "difficulty": "medium",
+      "question": "ب ن ر ك   ي ش ح م",
+      "answer": "محشي كرنب",
+      "hint": "أكلة الشتا الرسمية في البيوت المصرية"
+    },
+    {
+      "id": 106,
+      "difficulty": "medium",
+      "question": "ب ن ع   ق ر و",
+      "answer": "ورق عنب",
+      "hint": "محشي مزز ومحبوب في العزومات"
+    },
+    {
+      "id": 107,
+      "difficulty": "medium",
+      "question": "ي ش ح م   م ا م ح",
+      "answer": "حمام محشي",
+      "hint": "أكلة دسمة بالفريك أو الرز"
+    },
+    {
+      "id": 108,
+      "difficulty": "medium",
+      "question": "ل خ ل ا ب   ة ت ف",
+      "answer": "فتة بالخل",
+      "hint": "أكلة العيد الكبير الأساسية"
+    },
+    {
+      "id": 109,
+      "difficulty": "medium",
+      "question": "ي ل ع   م أ",
+      "answer": "أم علي",
+      "hint": "حلو مصري سخن بالمكسرات واللبن"
+    },
+    {
+      "id": 110,
+      "difficulty": "medium",
+      "question": "ن ب ل ب   ز ر",
+      "answer": "رز بلبن",
+      "hint": "تحلية ساقعة بالقرفة والمكسرات"
+    },
+    {
+      "id": 111,
+      "difficulty": "medium",
+      "question": "ة س و ب س ب",
+      "answer": "بسبوسة",
+      "hint": "حلويات شرقية بالسمنة البلدي والشربات"
+    },
+    {
+      "id": 112,
+      "difficulty": "medium",
+      "question": "ا ج ن ا م ل ا ب   ة ف ا ن ك",
+      "answer": "كنافة بالمانجا",
+      "hint": "تريند حلويات رمضان في مصر"
+    },
+    {
+      "id": 113,
+      "difficulty": "medium",
+      "question": "ف ي ا ط ق",
+      "answer": "قطايف",
+      "hint": "حلويات رمضانية محشية مكسرات أو قشطة"
+    },
+    {
+      "id": 114,
+      "difficulty": "medium",
+      "question": "ة ي ب ا ل ز",
+      "answer": "زلابية",
+      "hint": "لقمة القاضي المقرمشة بالعسل أو السكر"
+    },
+    {
+      "id": 115,
+      "difficulty": "medium",
+      "question": "ن ي د ل ا   ر م ق",
+      "answer": "قمر الدين",
+      "hint": "عصير المشمش الأساسي على فطار رمضان"
+    },
+    {
+      "id": 116,
+      "difficulty": "medium",
+      "question": "ي د ن ه   ر م ت",
+      "answer": "تمر هندي",
+      "hint": "مشروب رمضاني مزز وبيروي العطش"
+    },
+    {
+      "id": 117,
+      "difficulty": "medium",
+      "question": "س و س ق ر ع",
+      "answer": "عرقسوس",
+      "hint": "مشروب شعبي لونه أسود وليه عشاقه"
+    },
+    {
+      "id": 118,
+      "difficulty": "medium",
+      "question": "ا ي ب و س",
+      "answer": "سوبيا",
+      "hint": "مشروب أبيض ساقع بجوز الهند واللبن"
+    },
+    {
+      "id": 119,
+      "difficulty": "medium",
+      "question": "ه ي د ك ر ك",
+      "answer": "كركديه",
+      "hint": "مشروب أحمر بيتشرب ساقع أو سخن"
+    },
+    {
+      "id": 120,
+      "difficulty": "medium",
+      "question": "م ا ش ل ا   ص م ح",
+      "answer": "حمص الشام",
+      "hint": "مشروب الشتا السخن على الكورنيش"
+    },
+    {
+      "id": 121,
+      "difficulty": "medium",
+      "question": "ة ي و ش م   ا ط ا ط ب",
+      "answer": "بطاطا مشوية",
+      "hint": "أكلة شتوية دافية بتتباع على العربيات"
+    },
+    {
+      "id": 122,
+      "difficulty": "medium",
+      "question": "ي و ش م   ة ر د",
+      "answer": "درة مشوي",
+      "hint": "تسالي الصيف على الكورنيش وفي المصيف"
+    },
+    {
+      "id": 123,
+      "difficulty": "medium",
+      "question": "س م ر ت",
+      "answer": "ترمس",
+      "hint": "تسالي العيد مع الحلبة والسوداني"
+    },
+    {
+      "id": 124,
+      "difficulty": "medium",
+      "question": "خ ي س ف",
+      "answer": "فسيخ",
+      "hint": "سمك مملح بيتاكل في شم النسيم"
+    },
+    {
+      "id": 125,
+      "difficulty": "medium",
+      "question": "ة ج ن ر",
+      "answer": "رنجة",
+      "hint": "سمك مدخن بيتاكل بالليمون والبصل"
+    },
+    {
+      "id": 126,
+      "difficulty": "medium",
+      "question": "ي ن ا ر د ن ك س ا   ي ر ش ك",
+      "answer": "كشري اسكندراني",
+      "hint": "كشري بالعدس الأصفر والبيض المدحرج"
+    },
+    {
+      "id": 127,
+      "difficulty": "medium",
+      "question": "ي ش و ا و ح",
+      "answer": "حواوشي",
+      "hint": "عيش بلدي محشي لحمة مفرومة ومتبلة"
+    },
+    {
+      "id": 128,
+      "difficulty": "medium",
+      "question": "ي ن ا ر د ن ك س ا   ة د ب ك",
+      "answer": "كبدة اسكندراني",
+      "hint": "ساندوتشات مشهورة بالتوم والفلفل الحامي"
+    },
+    {
+      "id": 129,
+      "difficulty": "medium",
+      "question": "ي ق ر ش   ق ج س",
+      "answer": "سجق شرقي",
+      "hint": "أكلة سريعة متبلة بالبصل والطماطم"
+    },
+    {
+      "id": 130,
+      "difficulty": "medium",
+      "question": "ت ت ل ش م   ر ي ط ف",
+      "answer": "فطير مشلتت",
+      "hint": "فطير مورق بالسمنة البلدي جنب العسل"
+    },
+    {
+      "id": 131,
+      "difficulty": "medium",
+      "question": "د و س ا   ل س ع",
+      "answer": "عسل اسود",
+      "hint": "بيتاكل مع الطحينة والفطير"
+    },
+    {
+      "id": 132,
+      "difficulty": "medium",
+      "question": "ة م ي د ق   ة ن ب ج",
+      "answer": "جبنة قديمة",
+      "hint": "مش حادق بيتاكل مع الطماطم والخيار"
+    },
+    {
+      "id": 133,
+      "difficulty": "medium",
+      "question": "ة ل ي ل ب",
+      "answer": "بليلة",
+      "hint": "قمح مسلوق باللبن والسكر في الشتا"
+    },
+    {
+      "id": 134,
+      "difficulty": "medium",
+      "question": "ب ل ح س",
+      "answer": "سحلب",
+      "hint": "مشروب شتوي تقيل بالمكسرات وجوز الهند"
+    },
+    {
+      "id": 135,
+      "difficulty": "medium",
+      "question": "ت ا غ م",
+      "answer": "مغات",
+      "hint": "مشروب بيتقدم في السبوع للمباركة"
+    },
+    {
+      "id": 136,
+      "difficulty": "medium",
+      "question": "ر ت و ي ب م ك",
+      "answer": "كمبيوتر",
+      "hint": "جهاز إلكتروني للشغل والألعاب"
+    },
+    {
+      "id": 137,
+      "difficulty": "medium",
+      "question": "ن و ي ز ف ي ل ت",
+      "answer": "تليفزيون",
+      "hint": "شاشة في الصالة لمتابعة المسلسلات والماتشات"
+    },
+    {
+      "id": 138,
+      "difficulty": "medium",
+      "question": "ة ل ا س غ",
+      "answer": "غسالة",
+      "hint": "جهاز كهربائي لتنضيف الهدوم"
+    },
+    {
+      "id": 139,
+      "difficulty": "medium",
+      "question": "ز ا ج ا ت و ب",
+      "answer": "بوتاجاز",
+      "hint": "جهاز في المطبخ للطبخ والتسوية"
+    },
+    {
+      "id": 140,
+      "difficulty": "medium",
+      "question": "ف ي و و ر ك ي م",
+      "answer": "ميكروويف",
+      "hint": "جهاز لتسخين الأكل في ثواني"
+    },
+    {
+      "id": 141,
+      "difficulty": "medium",
+      "question": "ف ي ي ك ت",
+      "answer": "تكييف",
+      "hint": "جهاز بيرطب الجو في حر الصيف"
+    },
+    {
+      "id": 142,
+      "difficulty": "medium",
+      "question": "ن ا خ س",
+      "answer": "سخان",
+      "hint": "جهاز بيسخن المية للحمام والمطبخ"
+    },
+    {
+      "id": 143,
+      "difficulty": "medium",
+      "question": "ة س ن ك م",
+      "answer": "مكنسة",
+      "hint": "بتشفط التراب من السجاد والأرض"
+    },
+    {
+      "id": 144,
+      "difficulty": "medium",
+      "question": "ة ا و ك م",
+      "answer": "مكواة",
+      "hint": "بتفرد الكرمشة من القمصان والهدوم"
+    },
+    {
+      "id": 145,
+      "difficulty": "medium",
+      "question": "ط ا ل خ",
+      "answer": "خلاط",
+      "hint": "بيعمل العصاير وبيفرم الطماطم"
+    },
+    {
+      "id": 146,
+      "difficulty": "medium",
+      "question": "ن ح ا ش",
+      "answer": "شاحن",
+      "hint": "بيملى بطارية الموبايل بالكهرباء"
+    },
+    {
+      "id": 147,
+      "difficulty": "medium",
+      "question": "ت ا ع ا م س",
+      "answer": "سماعات",
+      "hint": "بتحطها في ودنك عشان تسمع مزيكا"
+    },
+    {
+      "id": 148,
+      "difficulty": "medium",
+      "question": "د ر و ب ي ك",
+      "answer": "كيبورد",
+      "hint": "لوحة مفاتيح للكتابة على الكمبيوتر"
+    },
+    {
+      "id": 149,
+      "difficulty": "medium",
+      "question": "ت ن ر ت ن ا",
+      "answer": "انترنت",
+      "hint": "شبكة عالمية بتربط العالم ببعضه"
+    },
+    {
+      "id": 150,
+      "difficulty": "medium",
+      "question": "ي ا ف   ي ا و",
+      "answer": "واي فاي",
+      "hint": "شبكة لاسلكية لتوصيل النت في البيت"
+    },
+    {
+      "id": 151,
+      "difficulty": "hard",
+      "question": "ر ي خ ل ا   ح ا ب ص",
+      "answer": "صباح الخير",
+      "hint": "تحية الصبح الجميلة بين الناس"
+    },
+    {
+      "id": 152,
+      "difficulty": "hard",
+      "question": "ل ف ل ا   ء ا س م",
+      "answer": "مساء الفل",
+      "hint": "تحية آخر النهار بابتسامة"
+    },
+    {
+      "id": 153,
+      "difficulty": "hard",
+      "question": "ي ب ح ا ص   ا ي   ك ي ز ا",
+      "answer": "ازيك يا صاحبي",
+      "hint": "سؤال عن الحال بين الأصحاب"
+    },
+    {
+      "id": 154,
+      "difficulty": "hard",
+      "question": "ه ل ل   د م ح ل ا",
+      "answer": "الحمد لله",
+      "hint": "كلمة شكر بنقولها في كل وقت"
+    },
+    {
+      "id": 155,
+      "difficulty": "hard",
+      "question": "ه ل ل ا   ء ا ش   ن ا",
+      "answer": "ان شاء الله",
+      "hint": "كلمة بنقولها لما نخطط لحاجة في المستقبل"
+    },
+    {
+      "id": 156,
+      "difficulty": "hard",
+      "question": "ل و ط   ى ل ع",
+      "answer": "على طول",
+      "hint": "معناها باستمرار أو طوالي في السكة"
+    },
+    {
+      "id": 157,
+      "difficulty": "hard",
+      "question": "م ع   ا ي   ي ش ا م",
+      "answer": "ماشي يا عم",
+      "hint": "رد بالموافقة مع شوية هزار"
+    },
+    {
+      "id": 158,
+      "difficulty": "hard",
+      "question": "ض ي ب ا   ر ا ه ن   ا ي",
+      "answer": "يا نهار ابيض",
+      "hint": "تعبير عن المفاجأة أو الصدمة الكبيرة"
+    },
+    {
+      "id": 159,
+      "difficulty": "hard",
+      "question": "ب ر   ا ي   ر ت ا س   ا ي",
+      "answer": "يا ساتر يا رب",
+      "hint": "دعاء بنقوله وقت الخوف أو الخضّة"
+    },
+    {
+      "id": 160,
+      "difficulty": "hard",
+      "question": "ك ل ا ح   ي ف   ك ي ل خ",
+      "answer": "خليك في حالك",
+      "hint": "نصيحة للي بيتدخل في اللي ما يخصوش"
+    },
+    {
+      "id": 161,
+      "difficulty": "hard",
+      "question": "ك ل ه م   ى ل ع",
+      "answer": "على مهلك",
+      "hint": "معناها بالراحة ومن غير استعجال"
+    },
+    {
+      "id": 162,
+      "difficulty": "hard",
+      "question": "ل ه س ي   ا ن ب ر",
+      "answer": "ربنا يسهل",
+      "hint": "دعاء بتيسير الأمور الصعبة"
+    },
+    {
+      "id": 163,
+      "difficulty": "hard",
+      "question": "م ا م ت   ه ل ك",
+      "answer": "كله تمام",
+      "hint": "معناها إن كل حاجة ماشية مظبوط"
+    },
+    {
+      "id": 164,
+      "difficulty": "hard",
+      "question": "ك م ه ي   ا ل و",
+      "answer": "ولا يهمك",
+      "hint": "كلمة بنطمن بيها حد زعلان أو غلطان"
+    },
+    {
+      "id": 165,
+      "difficulty": "hard",
+      "question": "ك د ي ا   م ل س ت",
+      "answer": "تسلم ايدك",
+      "hint": "شكر للي عمل أكل حلو أو خدمة"
+    },
+    {
+      "id": 166,
+      "difficulty": "hard",
+      "question": "ك و ر ب م   ف ل ا",
+      "answer": "الف مبروك",
+      "hint": "تهنئة في الأفراح والنجاح"
+    },
+    {
+      "id": 167,
+      "difficulty": "hard",
+      "question": "م ك د ن ع   ل ا ب ق ع",
+      "answer": "عقبال عندكم",
+      "hint": "دعوة حلوة في المناسبات السعيدة"
+    },
+    {
+      "id": 168,
+      "difficulty": "hard",
+      "question": "ا ن و ت ر و ن و   ا ن و ت ف ر ش",
+      "answer": "شرفتونا ونورتونا",
+      "hint": "ترحيب مصري أصيل بالضيوف"
+    },
+    {
+      "id": 169,
+      "difficulty": "hard",
+      "question": "ك ت ي ب   ت ي ب ل ا",
+      "answer": "البيت بيتك",
+      "hint": "كلمة كرم بتتقال للضيف عشان ياخد راحته"
+    },
+    {
+      "id": 170,
+      "difficulty": "hard",
+      "question": "ن ا ك م ل ا   ت ر و ن",
+      "answer": "نورت المكان",
+      "hint": "ترحيب بشخص غالي لسه واصل"
+    },
+    {
+      "id": 171,
+      "difficulty": "hard",
+      "question": "ر ك ت ف ت و   ش ي ع ت",
+      "answer": "تعيش وتفتكر",
+      "hint": "مواساة بتتقال في العزا"
+    },
+    {
+      "id": 172,
+      "difficulty": "hard",
+      "question": "ك ل ي ح   د ش",
+      "answer": "شد حيلك",
+      "hint": "تشجيع لحد عنده شغل تقيل أو امتحان"
+    },
+    {
+      "id": 173,
+      "difficulty": "hard",
+      "question": "ل ط ب   ا ي   ق ي ف و ت ل ا ب",
+      "answer": "بالتوفيق يا بطل",
+      "hint": "دعوة بالنجاح لشخص مجتهد"
+    },
+    {
+      "id": 174,
+      "difficulty": "hard",
+      "question": "ا ي ل ع   ك ق ح",
+      "answer": "حقك عليا",
+      "hint": "اعتذار شيك عشان تصالح حد زعلان"
+    },
+    {
+      "id": 175,
+      "difficulty": "hard",
+      "question": "ي ب ح ا ص   ا ي   ش ل ع م",
+      "answer": "معلش يا صاحبي",
+      "hint": "كلمة مصرية سحرية لتخفيف أي مصيبة"
+    },
+    {
+      "id": 176,
+      "difficulty": "hard",
+      "question": "ر ا ب خ ا ل ا   ه ي ا",
+      "answer": "ايه الاخبار",
+      "hint": "سؤال عن آخر المستجدات والأحوال"
+    },
+    {
+      "id": 177,
+      "difficulty": "hard",
+      "question": "ة د ر ا ه ن ل ا   ه ي ا   ل م ا ع",
+      "answer": "عامل ايه النهاردة",
+      "hint": "سؤال يومي عن الصحة والمزاج"
+    },
+    {
+      "id": 178,
+      "difficulty": "hard",
+      "question": "ل ج ا ر   ا ي   ك ن ي ف",
+      "answer": "فينك يا راجل",
+      "hint": "عتاب ودي لواحد مختفي بقاله فترة"
+    },
+    {
+      "id": 179,
+      "difficulty": "hard",
+      "question": "ا د ج   ا ن ت ش ح و",
+      "answer": "وحشتنا جدا",
+      "hint": "تعبير عن الشوق للأحباب"
+    },
+    {
+      "id": 180,
+      "difficulty": "hard",
+      "question": "ر ي خ   ى ل ع   ك ف و ش ا",
+      "answer": "اشوفك على خير",
+      "hint": "وداع لطيف قبل ما تمشي"
+    },
+    {
+      "id": 181,
+      "difficulty": "hard",
+      "question": "ك س ف ن   ن م   ك ل ا ب   ي ل خ",
+      "answer": "خلي بالك من نفسك",
+      "hint": "نصيحة فيها اهتمام وخوف على اللي قدامك"
+    },
+    {
+      "id": 182,
+      "difficulty": "hard",
+      "question": "ك ي ل ع   ي ن م ط",
+      "answer": "طمني عليك",
+      "hint": "طلب إن الشخص يكلمك لما يوصل"
+    },
+    {
+      "id": 183,
+      "difficulty": "hard",
+      "question": "ا ف ش ل ا و   ا ن ه ل ا ب",
+      "answer": "بالهنا والشفا",
+      "hint": "دعوة حلوة للي بياكل"
+    },
+    {
+      "id": 184,
+      "difficulty": "hard",
+      "question": "ة م ي ا د   ة ر ف س",
+      "answer": "سفرة دايمة",
+      "hint": "شكر لصاحب العزومة بعد الأكل"
+    },
+    {
+      "id": 185,
+      "difficulty": "hard",
+      "question": "ة ط و ب ظ م   ة و ه ق",
+      "answer": "قهوة مظبوطة",
+      "hint": "طلب القهوة بسكر وسط في القهوة"
+    },
+    {
+      "id": 186,
+      "difficulty": "hard",
+      "question": "ع ا ن ع ن ل ا ب   ي ا ش",
+      "answer": "شاي بالنعناع",
+      "hint": "مشروب المزاج بعد الأكلة التقيلة"
+    },
+    {
+      "id": 187,
+      "difficulty": "hard",
+      "question": "ب ص ق   ر ي ص ع",
+      "answer": "عصير قصب",
+      "hint": "أشهر وأرخص مشروب طاقة في شوارع مصر"
+    },
+    {
+      "id": 188,
+      "difficulty": "hard",
+      "question": "س م د م   ل و ف   د ح ا و",
+      "answer": "واحد فول مدمس",
+      "hint": "الطلب الأساسي على عربية الفول الصبح"
+    },
+    {
+      "id": 189,
+      "difficulty": "hard",
+      "question": "ة ن خ س   ة ي م ع ط   ن ي ن ت ا",
+      "answer": "اتنين طعمية سخنة",
+      "hint": "طلب الفطار المقرمش من المطعم"
+    },
+    {
+      "id": 190,
+      "difficulty": "hard",
+      "question": "ه ز ا ط   ي د ل ب   ش ي ع",
+      "answer": "عيش بلدي طازه",
+      "hint": "العيش الأسمر اللي لسه طالع من الفرن"
+    },
+    {
+      "id": 191,
+      "difficulty": "hard",
+      "question": "ا ي ن د   ا ي   ة م ح ز",
+      "answer": "زحمة يا دنيا",
+      "hint": "أغنية شعبية مشهورة لأحمد عدوية"
+    },
+    {
+      "id": 192,
+      "difficulty": "hard",
+      "question": "ع ي ب ر   ا ي ن د ل ا",
+      "answer": "الدنيا ربيع",
+      "hint": "أغنية سعاد حسني المشهورة في شم النسيم"
+    },
+    {
+      "id": 193,
+      "difficulty": "hard",
+      "question": "ي د ل ب   ا ي   ة و ل ح",
+      "answer": "حلوة يا بلدي",
+      "hint": "أغنية داليدا الخالدة عن حب مصر"
+    },
+    {
+      "id": 194,
+      "difficulty": "hard",
+      "question": "ر ي خ   ة ر ش ب",
+      "answer": "بشرة خير",
+      "hint": "أغنية حسين الجسمي اللي رقصت مصر كلها"
+    },
+    {
+      "id": 195,
+      "difficulty": "hard",
+      "question": "ب ي ا ب ح ل ا   ت س",
+      "answer": "ست الحبايب",
+      "hint": "أغنية عيد الأم اللي كلنا بنحبها"
+    },
+    {
+      "id": 196,
+      "difficulty": "hard",
+      "question": "ا ن ا ج   ن ا ض م ر",
+      "answer": "رمضان جانا",
+      "hint": "أغنية محمد عبد المطلب اللي بتعلن بداية الشهر"
+    },
+    {
+      "id": 197,
+      "difficulty": "hard",
+      "question": "ي و ح و   ا ي   ي و ح و",
+      "answer": "وحوي يا وحوي",
+      "hint": "أغنية الأطفال الفلكلورية بفوانيس رمضان"
+    },
+    {
+      "id": 198,
+      "difficulty": "hard",
+      "question": "م ك ق ب ط   ق ب ط   ا ن ق ب ط",
+      "answer": "طبقنا طبق طبقكم",
+      "hint": "تحدي لسان مصري مشهور وصعب"
+    },
+    {
+      "id": 199,
+      "difficulty": "hard",
+      "question": "ل ي ل خ   ط ي ح   ى ل ع   ر ي ر ح   ط ي خ",
+      "answer": "خيط حرير على حيط خليل",
+      "hint": "جملة صعبة لازم تتقال بسرعة من غير لخبطة"
+    },
+    {
+      "id": 200,
+      "difficulty": "hard",
+      "question": "م ك ت ط ب   ن ط ب   ت ط ب   ا ن ت ط ب",
+      "answer": "بطتنا بطت بطن بطتكم",
+      "hint": "أشهر جملة لخبطة لسان في مصر"
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "category": "أوصف من غير ما تقول",
+  "items": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "target_word": "الكشري",
+      "forbidden_words": ["عدس", "مكرونة", "صلصة", "دقة"]
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "target_word": "الأهرامات",
+      "forbidden_words": ["الجيزة", "فرعون", "أبو الهول", "سياح"]
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "target_word": "المترو",
+      "forbidden_words": ["قطر", "تحت الأرض", "محطة", "تذكرة"]
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "target_word": "الفول والطعمية",
+      "forbidden_words": ["فطار", "فلافل", "عيش", "زيت"]
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "target_word": "عمرو دياب",
+      "forbidden_words": ["الهضبة", "مطرب", "أغاني", "تملي معاك"]
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "target_word": "النادي الأهلي",
+      "forbidden_words": ["أحمر", "كورة", "زمالك", "بطولات"]
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "target_word": "محمد صلاح",
+      "forbidden_words": ["ليفربول", "كورة", "مو", "إنجلترا"]
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "target_word": "رمضان",
+      "forbidden_words": ["صيام", "فانوس", "إفطار", "سحور"]
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "target_word": "المصيف",
+      "forbidden_words": ["بحر", "صيف", "شاطئ", "الساحل"]
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "target_word": "الشاي بالنعناع",
+      "forbidden_words": ["كوباية", "سخن", "سكر", "قهوة"]
+    },
+    {
+      "id": 11,
+      "difficulty": "easy",
+      "target_word": "التوك توك",
+      "forbidden_words": ["تلات عجلات", "شوارع", "سواق", "أجرة"]
+    },
+    {
+      "id": 12,
+      "difficulty": "easy",
+      "target_word": "نهر النيل",
+      "forbidden_words": ["مية", "مصر", "مركب", "كوبري"]
+    },
+    {
+      "id": 13,
+      "difficulty": "easy",
+      "target_word": "الامتحان",
+      "forbidden_words": ["مدرسة", "ورقة", "نجاح", "أسئلة"]
+    },
+    {
+      "id": 14,
+      "difficulty": "easy",
+      "target_word": "الفرح",
+      "forbidden_words": ["عريس", "عروسة", "رقص", "قاعة"]
+    },
+    {
+      "id": 15,
+      "difficulty": "easy",
+      "target_word": "السينما",
+      "forbidden_words": ["فيلم", "شاشة", "فشار", "تذكرة"]
+    },
+    {
+      "id": 16,
+      "difficulty": "easy",
+      "target_word": "البلكونة",
+      "forbidden_words": ["شقة", "هوا", "شارع", "غسيل"]
+    },
+    {
+      "id": 17,
+      "difficulty": "easy",
+      "target_word": "الكنافة",
+      "forbidden_words": ["حلويات", "رمضان", "شربات", "مانجا"]
+    },
+    {
+      "id": 18,
+      "difficulty": "easy",
+      "target_word": "الدكتور",
+      "forbidden_words": ["مستشفى", "مريض", "علاج", "روشتة"]
+    },
+    {
+      "id": 19,
+      "difficulty": "easy",
+      "target_word": "الإسكندرية",
+      "forbidden_words": ["بحر", "كورنيش", "قلعة", "محافظة"]
+    },
+    {
+      "id": 20,
+      "difficulty": "easy",
+      "target_word": "المكوجي",
+      "forbidden_words": ["هدوم", "مكوة", "قميص", "بنطلون"]
+    },
+    {
+      "id": 21,
+      "difficulty": "easy",
+      "target_word": "عيد الميلاد",
+      "forbidden_words": ["تورتة", "شموع", "هدايا", "سنة"]
+    },
+    {
+      "id": 22,
+      "difficulty": "easy",
+      "target_word": "البواب",
+      "forbidden_words": ["عمارة", "سكان", "مدخل", "شقة"]
+    },
+    {
+      "id": 23,
+      "difficulty": "easy",
+      "target_word": "المحشي",
+      "forbidden_words": ["كرنب", "ورق عنب", "رز", "خلطة"]
+    },
+    {
+      "id": 24,
+      "difficulty": "easy",
+      "target_word": "القهوة البلدي",
+      "forbidden_words": ["طاولة", "دومينو", "شيشة", "كراسي"]
+    },
+    {
+      "id": 25,
+      "difficulty": "easy",
+      "target_word": "الأسانسير",
+      "forbidden_words": ["دور", "عمارة", "زرار", "سلالم"]
+    },
+    {
+      "id": 26,
+      "difficulty": "medium",
+      "target_word": "خان الخليلي",
+      "forbidden_words": ["الحسين", "سياح", "تذكار", "سوق"]
+    },
+    {
+      "id": 27,
+      "difficulty": "medium",
+      "target_word": "مدرسة المشاغبين",
+      "forbidden_words": ["مسرحية", "عادل إمام", "سعيد صالح", "بهجت"]
+    },
+    {
+      "id": 28,
+      "difficulty": "medium",
+      "target_word": "أبو الهول",
+      "forbidden_words": ["تمثال", "أسد", "إنسان", "مناخير"]
+    },
+    {
+      "id": 29,
+      "difficulty": "medium",
+      "target_word": "اللمبي",
+      "forbidden_words": ["محمد سعد", "فيلم", "عبلة كامل", "فرنسا"]
+    },
+    {
+      "id": 30,
+      "difficulty": "medium",
+      "target_word": "برج القاهرة",
+      "forbidden_words": ["الزمالك", "طويل", "نيل", "مطعم"]
+    },
+    {
+      "id": 31,
+      "difficulty": "medium",
+      "target_word": "السحور",
+      "forbidden_words": ["رمضان", "فجر", "فول", "زبادي"]
+    },
+    {
+      "id": 32,
+      "difficulty": "medium",
+      "target_word": "الكبسة",
+      "forbidden_words": ["رز", "لحمة", "سعودية", "بهارات"]
+    },
+    {
+      "id": 33,
+      "difficulty": "medium",
+      "target_word": "الواي فاي",
+      "forbidden_words": ["إنترنت", "راوتر", "شبكة", "باسورد"]
+    },
+    {
+      "id": 34,
+      "difficulty": "medium",
+      "target_word": "المولد النبوي",
+      "forbidden_words": ["حلاوة", "عروسة", "حصان", "سمسمية"]
+    },
+    {
+      "id": 35,
+      "difficulty": "medium",
+      "target_word": "البلاستيشن",
+      "forbidden_words": ["جيمز", "فيفا", "دراع", "شاشة"]
+    },
+    {
+      "id": 36,
+      "difficulty": "medium",
+      "target_word": "شم النسيم",
+      "forbidden_words": ["فسيخ", "رنجة", "بيض", "ربيع"]
+    },
+    {
+      "id": 37,
+      "difficulty": "medium",
+      "target_word": "المسحراتي",
+      "forbidden_words": ["طبلة", "رمضان", "سحور", "اصحى"]
+    },
+    {
+      "id": 38,
+      "difficulty": "medium",
+      "target_word": "الباسبور",
+      "forbidden_words": ["سفر", "مطار", "فيزا", "جواز"]
+    },
+    {
+      "id": 39,
+      "difficulty": "medium",
+      "target_word": "الميكروباص",
+      "forbidden_words": ["سواق", "أجرة", "ركاب", "موقف"]
+    },
+    {
+      "id": 40,
+      "difficulty": "medium",
+      "target_word": "قصر النيل",
+      "forbidden_words": ["كوبري", "أسود", "النيل", "التحرير"]
+    },
+    {
+      "id": 41,
+      "difficulty": "medium",
+      "target_word": "الأبراج الفلكية",
+      "forbidden_words": ["حظ", "تاريخ", "حمل", "عقرب"]
+    },
+    {
+      "id": 42,
+      "difficulty": "medium",
+      "target_word": "أبو تريكة",
+      "forbidden_words": ["الأهلي", "كورة", "الماجيكو", "٢٢"]
+    },
+    {
+      "id": 43,
+      "difficulty": "medium",
+      "target_word": "أم كلثوم",
+      "forbidden_words": ["كوكب الشرق", "مطربة", "منديل", "نظارة"]
+    },
+    {
+      "id": 44,
+      "difficulty": "medium",
+      "target_word": "طاجن المكرونة",
+      "forbidden_words": ["فرن", "لحمة", "صلصة", "كشري"]
+    },
+    {
+      "id": 45,
+      "difficulty": "medium",
+      "target_word": "التكييف",
+      "forbidden_words": ["هوا", "صيف", "ساقع", "ريموت"]
+    },
+    {
+      "id": 46,
+      "difficulty": "medium",
+      "target_word": "الكارنيه",
+      "forbidden_words": ["بطاقة", "جامعة", "نادي", "صورة"]
+    },
+    {
+      "id": 47,
+      "difficulty": "medium",
+      "target_word": "الأوبرا",
+      "forbidden_words": ["موسيقى", "دار", "الزمالك", "حفلة"]
+    },
+    {
+      "id": 48,
+      "difficulty": "medium",
+      "target_word": "المطافي",
+      "forbidden_words": ["حريقة", "نار", "مية", "عربية حمرا"]
+    },
+    {
+      "id": 49,
+      "difficulty": "medium",
+      "target_word": "العيدية",
+      "forbidden_words": ["فلوس", "عيد", "أطفال", "فكة"]
+    },
+    {
+      "id": 50,
+      "difficulty": "medium",
+      "target_word": "شرم الشيخ",
+      "forbidden_words": ["سيناء", "بحر أحمر", "سياحة", "غوص"]
+    },
+    {
+      "id": 51,
+      "difficulty": "hard",
+      "target_word": "الفصال",
+      "forbidden_words": ["سعر", "محل", "تخفيض", "بياع"]
+    },
+    {
+      "id": 52,
+      "difficulty": "hard",
+      "target_word": "الكسل",
+      "forbidden_words": ["نوم", "انتخة", "تعب", "شغل"]
+    },
+    {
+      "id": 53,
+      "difficulty": "hard",
+      "target_word": "النوستالجيا",
+      "forbidden_words": ["حنين", "ماضي", "ذكريات", "زمان"]
+    },
+    {
+      "id": 54,
+      "difficulty": "hard",
+      "target_word": "الإيجار",
+      "forbidden_words": ["شقة", "فلوس", "شهر", "صاحب البيت"]
+    },
+    {
+      "id": 55,
+      "difficulty": "hard",
+      "target_word": "المجاملة",
+      "forbidden_words": ["مدح", "كلام حلو", "ذوق", "نفاق"]
+    },
+    {
+      "id": 56,
+      "difficulty": "hard",
+      "target_word": "الواسطة",
+      "forbidden_words": ["معارف", "شغل", "توصية", "محسوبية"]
+    },
+    {
+      "id": 57,
+      "difficulty": "hard",
+      "target_word": "الكسوف",
+      "forbidden_words": ["شمس", "قمر", "خجل", "ضلمة"]
+    },
+    {
+      "id": 58,
+      "difficulty": "hard",
+      "target_word": "السراب",
+      "forbidden_words": ["صحراء", "مية", "وهم", "عطش"]
+    },
+    {
+      "id": 59,
+      "difficulty": "hard",
+      "target_word": "الكاريزما",
+      "forbidden_words": ["شخصية", "حضور", "جاذبية", "تأثير"]
+    },
+    {
+      "id": 60,
+      "difficulty": "hard",
+      "target_word": "الحسد",
+      "forbidden_words": ["عين", "غيرة", "نعمة", "بخور"]
+    },
+    {
+      "id": 61,
+      "difficulty": "hard",
+      "target_word": "المزاد",
+      "forbidden_words": ["سعر", "بيع", "رقم", "منافسة"]
+    },
+    {
+      "id": 62,
+      "difficulty": "hard",
+      "target_word": "الجمارك",
+      "forbidden_words": ["مطار", "ضريبة", "شنط", "حدود"]
+    },
+    {
+      "id": 63,
+      "difficulty": "hard",
+      "target_word": "الروتين",
+      "forbidden_words": ["تكرار", "ملل", "يوم", "نفس الحاجة"]
+    },
+    {
+      "id": 64,
+      "difficulty": "hard",
+      "target_word": "الأرق",
+      "forbidden_words": ["نوم", "ليل", "سهر", "سرير"]
+    },
+    {
+      "id": 65,
+      "difficulty": "hard",
+      "target_word": "التفاؤل",
+      "forbidden_words": ["أمل", "بكرة", "فرح", "إيجابي"]
+    },
+    {
+      "id": 66,
+      "difficulty": "hard",
+      "target_word": "ضربة جزاء",
+      "forbidden_words": ["حكم", "جون", "كورة", "منطقة"]
+    },
+    {
+      "id": 67,
+      "difficulty": "hard",
+      "target_word": "كذبة أبريل",
+      "forbidden_words": ["مقلب", "شهر", "هزار", "إشاعة"]
+    },
+    {
+      "id": 68,
+      "difficulty": "hard",
+      "target_word": "المناعة",
+      "forbidden_words": ["جسم", "مرض", "دفاع", "فيروس"]
+    },
+    {
+      "id": 69,
+      "difficulty": "hard",
+      "target_word": "البورصة",
+      "forbidden_words": ["أسهم", "فلوس", "شركات", "مكسب"]
+    },
+    {
+      "id": 70,
+      "difficulty": "hard",
+      "target_word": "المستحيل",
+      "forbidden_words": ["صعب", "أبداً", "خيال", "مش ممكن"]
+    },
+    {
+      "id": 71,
+      "difficulty": "hard",
+      "target_word": "التواضع",
+      "forbidden_words": ["غرور", "بسيط", "أخلاق", "تكبر"]
+    },
+    {
+      "id": 72,
+      "difficulty": "hard",
+      "target_word": "الاحتكار",
+      "forbidden_words": ["سوق", "شركة واحدة", "منافسة", "تجارة"]
+    },
+    {
+      "id": 73,
+      "difficulty": "hard",
+      "target_word": "الكومبارس",
+      "forbidden_words": ["فيلم", "ممثل", "خلفية", "مشهد"]
+    },
+    {
+      "id": 74,
+      "difficulty": "hard",
+      "target_word": "الفهلوة",
+      "forbidden_words": ["ذكاء", "شطارة", "مصري", "تأليف"]
+    },
+    {
+      "id": 75,
+      "difficulty": "hard",
+      "target_word": "الإلهام",
+      "forbidden_words": ["فكرة", "إبداع", "فنان", "خيال"]
+    }
+  ]
+}

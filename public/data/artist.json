@@ -1,0 +1,415 @@
+{
+    "category": "غني للمطرب",
+    "items": [
+        {
+            "id": 1,
+            "difficulty": "easy",
+            "question": "عمرو دياب",
+            "sample_songs": [
+                "تملي معاك",
+                "نور العين",
+                "ليلي نهاري"
+            ]
+        },
+        {
+            "id": 2,
+            "difficulty": "easy",
+            "question": "تامر حسني",
+            "sample_songs": [
+                "كل مرة",
+                "يا بنت الإيه",
+                "عيش بشوقك"
+            ]
+        },
+        {
+            "id": 3,
+            "difficulty": "easy",
+            "question": "شيرين عبد الوهاب",
+            "sample_songs": [
+                "آه يا ليل",
+                "مشاعر",
+                "جرح تاني"
+            ]
+        },
+        {
+            "id": 4,
+            "difficulty": "easy",
+            "question": "أم كلثوم",
+            "sample_songs": [
+                "إنت عمري",
+                "الأطلال",
+                "ألف ليلة وليلة"
+            ]
+        },
+        {
+            "id": 6,
+            "difficulty": "easy",
+            "question": "ويجز",
+            "sample_songs": [
+                "دورك جاي",
+                "البخت",
+                "كيفي كده"
+            ]
+        },
+        {
+            "id": 8,
+            "difficulty": "easy",
+            "question": "نانسي عجرم",
+            "sample_songs": [
+                "أخاصمك آه",
+                "آه ونص",
+                "يا طبطب"
+            ]
+        },
+        {
+            "id": 10,
+            "difficulty": "easy",
+            "question": "محمد منير",
+            "sample_songs": [
+                "الليلة يا سمرا",
+                "شبابيك",
+                "سو يا سو"
+            ]
+        },
+        {
+            "id": 11,
+            "difficulty": "easy",
+            "question": "فيروز",
+            "sample_songs": [
+                "نسم علينا الهوى",
+                "سألوني الناس",
+                "حبيتك بالصيف"
+            ]
+        },
+        {
+            "id": 12,
+            "difficulty": "easy",
+            "question": "حسين الجسمي",
+            "sample_songs": [
+                "بشرة خير",
+                "بالبنط العريض",
+                "ستة الصبح"
+            ]
+        },
+        {
+            "id": 15,
+            "difficulty": "easy",
+            "question": "حكيم",
+            "sample_songs": [
+                "السلام عليكم",
+                "نار",
+                "حلاوة روح"
+            ]
+        },
+        {
+            "id": 17,
+            "difficulty": "easy",
+            "question": "أحمد سعد",
+            "sample_songs": [
+                "إيه اليوم الحلو ده",
+                "وسع وسع",
+                "عليكي عيون"
+            ]
+        },
+        {
+            "id": 23,
+            "difficulty": "easy",
+            "question": "هيفاء وهبي",
+            "sample_songs": [
+                "بوس الواوا",
+                "رجب",
+                "أنا هيفا"
+            ]
+        },
+        {
+            "id": 27,
+            "difficulty": "easy",
+            "question": "سعد لمجرد",
+            "sample_songs": [
+                "إنت معلم",
+                "أنتي باغية واحد",
+                "غلطانة"
+            ]
+        },
+        {
+            "id": 28,
+            "difficulty": "easy",
+            "question": "محمد رمضان",
+            "sample_songs": [
+                "نمبر وان",
+                "مافيا",
+                "انساي"
+            ]
+        },
+        {
+            "id": 29,
+            "difficulty": "easy",
+            "question": "روبي",
+            "sample_songs": [
+                "إنت عارف ليه",
+                "ليه بيداري كده",
+                "حتة تانية"
+            ]
+        },
+        {
+            "id": 32,
+            "difficulty": "easy",
+            "question": "عمرو مصطفى",
+            "sample_songs": [
+                "برتاح معاك",
+                "أول ما أقول",
+                "إلا أنا"
+            ]
+        },
+        {
+            "id": 34,
+            "difficulty": "easy",
+            "question": "مصطفى قمر",
+            "sample_songs": [
+                "السود عيونه",
+                "الليلة دوب",
+                "حبيب حياتي"
+            ]
+        },
+        {
+            "id": 35,
+            "difficulty": "easy",
+            "question": "هشام عباس",
+            "sample_songs": [
+                "ناري نارين",
+                "فينه",
+                "حبيتها"
+            ]
+        },
+        {
+            "id": 46,
+            "difficulty": "easy",
+            "question": "أحمد عدوية",
+            "sample_songs": [
+                "بنت السلطان",
+                "زحمة يا دنيا زحمة",
+                "السح الدح امبو"
+            ]
+        },
+        {
+            "id": 47,
+            "difficulty": "easy",
+            "question": "حسن شاكوش",
+            "sample_songs": [
+                "بنت الجيران",
+                "عود البطل",
+                "حبيبتي"
+            ]
+        },
+        {
+            "id": 49,
+            "difficulty": "easy",
+            "question": "حمو بيكا",
+            "sample_songs": [
+                "رب الكون ميزنا بميزة",
+                "وداع يا دنيا وداع",
+                "شمس المجرة"
+            ]
+        },
+        {
+            "id": 50,
+            "difficulty": "easy",
+            "question": "سعد الصغير",
+            "sample_songs": [
+                "العنب",
+                "بحبك يا حمار",
+                "الكلام على مين"
+            ]
+        },
+        {
+            "id": 51,
+            "difficulty": "easy",
+            "question": "محمود العسيلي",
+            "sample_songs": [
+                "مجنونة",
+                "ترارم",
+                "فوقي"
+            ]
+        },
+        {
+            "id": 53,
+            "difficulty": "easy",
+            "question": "كايروكي",
+            "sample_songs": [
+                "يا الميدان",
+                "السكة شمال",
+                "كوستاريكا"
+            ]
+        },
+        {
+            "id": 54,
+            "difficulty": "easy",
+            "question": "مروان بابلو",
+            "sample_songs": [
+                "الجميزة",
+                "فري",
+                "غابة"
+            ]
+        },
+        {
+            "id": 55,
+            "difficulty": "easy",
+            "question": "مروان موسى",
+            "sample_songs": [
+                "نهاية العالم",
+                "شيراتون",
+                "ربع قرن"
+            ]
+        },
+        {
+            "id": 56,
+            "difficulty": "easy",
+            "question": "عفروتو",
+            "sample_songs": [
+                "فرق خبرة",
+                "مش بالحظوظ",
+                "برازيلي"
+            ]
+        },
+        {
+            "id": 57,
+            "difficulty": "easy",
+            "question": "أبيوسف",
+            "sample_songs": [
+                "عزرائيل",
+                "باشا اعتمد",
+                "مفيش مانع"
+            ]
+        },
+        {
+            "id": 68,
+            "difficulty": "easy",
+            "question": "حميد الشاعري",
+            "sample_songs": [
+                "جلجلي",
+                "عيني",
+                "قشر البندق"
+            ]
+        },
+        {
+            "id": 72,
+            "difficulty": "medium",
+            "question": "شارموفرز",
+            "sample_songs": [
+                "خمسة سنتي",
+                "مفتقد الحبيبة",
+                "زامبا"
+            ]
+        },
+        {
+            "id": 80,
+            "difficulty": "medium",
+            "question": "شاهين",
+            "sample_songs": [
+                "ما علينا",
+                "سيري",
+                "شيف"
+            ]
+        },
+        {
+            "id": 83,
+            "difficulty": "medium",
+            "question": "ليجي سي",
+            "sample_songs": [
+                "بيت الدين",
+                "مش ده اللي اختارته",
+                "تاني"
+            ]
+        },
+        {
+            "id": 84,
+            "difficulty": "medium",
+            "question": "توليت",
+            "sample_songs": [
+                "حبيبي ليه",
+                "ماتيجي أعدي عليكي",
+                "بقيت وحيد"
+            ]
+        },
+        {
+            "id": 85,
+            "difficulty": "medium",
+            "question": "عصام صاصا",
+            "sample_songs": [
+                "كله رايح",
+                "إذا كان قلبك كبير",
+                "محكمة ودخلنا على المفرمة"
+            ]
+        },
+        {
+            "id": 91,
+            "difficulty": "medium",
+            "question": "عبد الباسط حمودة",
+            "sample_songs": [
+                "أنا مش عارفني",
+                "اديني قلبك",
+                "الجو هادي"
+            ]
+        },
+        {
+            "id": 131,
+            "difficulty": "medium",
+            "question": "أحمد مكي",
+            "sample_songs": [
+                "قطر الحياة",
+                "أغلى من الياقوت",
+                "وقفة ناصية زمان"
+            ]
+        },
+        {
+            "id": 142,
+            "difficulty": "medium",
+            "question": "أكرم حسني",
+            "sample_songs": [
+                "ستو أنا",
+                "بسبوسة",
+                "لو كنت"
+            ]
+        },
+        {
+            "id": 156,
+            "difficulty": "hard",
+            "question": "فريق المصريين",
+            "sample_songs": [
+                "ماشية السنيورة",
+                "لما كان البحر أزرق",
+                "بحبك لا"
+            ]
+        },
+        {
+            "id": 189,
+            "difficulty": "hard",
+            "question": "أبو الأنوار",
+            "sample_songs": [
+                "سكوو",
+                "مفيش صاحب بيتصاحب",
+                "عالم موازي"
+            ]
+        },
+        {
+            "id": 190,
+            "difficulty": "hard",
+            "question": "سانتا",
+            "sample_songs": [
+                "سباق",
+                "عالم تاني",
+                "مفيش وقت"
+            ]
+        },
+        {
+            "id": 192,
+            "difficulty": "hard",
+            "question": "عنبة",
+            "sample_songs": [
+                "الملوك",
+                "العو",
+                "فكك"
+            ]
+        }
+    ]
+}
